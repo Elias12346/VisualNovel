@@ -1,0 +1,46 @@
+Hello World!
+
+Welcome to our Visual Novel in-progress!
+
+Let's test out some stuff.
+Let's do a simple scene with some characters, shall we?
+
+@char JohnMaxwell.Default
+This is John Maxwell. He is a character in our story.
+John Maxwell is the leader and founder of the Maxwell company. He is a man in his 50's and acts as the stern but caring teacher of the group. He was in a successful expedition before that originally made him rich, but the death of his wife made him waste his money on ways to distract himself. Finally, his daughter brought her back from his depression and now he is leading the expedition to make sure his daughter will have a safe future.
+JohnMaxwell: Pleasure to meet you! My name is John and I'm the leader of the group.
+JohnMaxwell: It'll be an honour working together on this expedition! I'm counting on you.
+@hide JohnMaxwell
+
+@char TarosJones.Default
+This is Taros Jones. He is yet another character in our story.
+Taros is a strongly built man in his 30's. He was hired to be the heavy lifter of the group. He is the "gentle giant" of the group.
+TarosJones: Hey there! I'm Taros, the muscle of the group.
+TarosJones: If you need anything heavy lifted, I'm your guy!
+@hide TarosJones
+
+@char KatieMaxwell.Default
+This is Katie Maxwell. She is yet another character in our story.
+Katie is the daughter of John. She is a woman in her late 20's with a small but athletic build. First John didn’t want Katie with him for fear of losing her, but Katie shares her father's drive and strength of will and forced her father to bring her with him.
+KatieMaxwell: Hi! I'm Katie, the daughter of John Maxwell.
+KatieMaxwell: I'm here to make sure my father doesn't do anything stupid.
+@hide KatieMaxwell
+
+@char JaneHolifield.Default
+This is Jane Holifield. She is yet another character in our story.
+JaneHolifield is a woman in her 30's with a tall but slender built. She is Taros' friend and was hired a bit later than him. She is the relic expert in the team. She is normally silent and reserved but when talking about relics she will get extremely passionate.
+JaneHolifield: Hello. I'm Jane, the relic expert of the group.
+JaneHolifield: If there's anything you need to know about relics, I'm your expert.
+@hide JaneHolifield
+
+@char TheContractor.Default
+This is The Contractor. He is our protagonist of our story.
+I don't think we need a sprite for protagonist, since traditionally player characters don't have sprites in visual novels when coversing with other characters, but here it is anyway!
+The main character has no name or background as the main character is just and empty shell for the player to slot into. The only known thing is that the main character had to for some reason join the expedition.
+TheContractor: Hello! I'm the contractor, also know as the protagonist/player. I'm here to be an empty shell for the player to relate to.
+TheContractor: I'm sure we'll get along just fine.
+TheContractor: ...I hope.
+@hide TheContractor
+
+That's it for the introductions! Let's move on to the next scene. Whatever it might be.
+@stop
