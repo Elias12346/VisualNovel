@@ -1,0 +1,291 @@
+*Start of 03_Act2Scene2*
+During your journey, you've been looking outside of the truck, watching environments change before your eyes.
+You have traveled through scorching deserts, ruined cities of human civilization, and arid wastelands, previously lush grasslands now ruined by pollution caused by the previous inhabitants of this planet.
+At last, you spot a large mountain range, your target destination, far in the distance.
+John drives the car closer to the expected coordinates of the ancient lab, which is supposed to be inside somewhere.
+The car slows down and stops. John steps out of the car and speaks up.
+
+@char JohnMaxwell.Default pose:DefaultMiddle
+JohnMaxwell: We are finally here.
+
+@char JohnMaxwell.Default pose:DefaultLeft
+@char KatieMaxwell.Default pose:DefaultMiddle
+@char JaneHolifield.Default pose:DefaultRight
+JohnMaxwell: Katie, take the tools. Jane, gather your equipment. Contractor, help carry the food and medicine.
+Katie and Jane both nod in agreement and get to work.
+
+@hide KatieMaxwell
+@hide JaneHolifield
+@char TarosJones.Default pose:DefaultRight
+JohnMaxwell: Taros, you're in charge until I make sure the perimeter is secured.
+TarosJones: Got it boss.
+Taros responds with a quick nod, while John heads out to check the surroundings.
+@hideChars
+
+@char TarosJones.Default pose:DefaultMiddle
+@char JaneHolifield.Default pose:DefaultRight
+@char KatieMaxwell.Default pose:DefaultLeft
+You look at the people around you. The mood is still tense, but at least there are no Earthflame problems so far. It seems like this operation might go well.
+@hideChars
+
+@char TarosJones.Default pose:DefaultMiddle
+TarosJones: Arright people, let's get to work.
+Taros leads the way to the cave entrance. You follow him inside.
+@hideChars
+
+The cave is dark and empty at first, but as you walk further, you enter a room with strange lighting and symbols on the walls.
+TheContractor: Woah. Is this the lab? I've never seen anything like this before.
+@char JaneHolifield.Default pose:DefaultMiddle
+Jane suddenly appears out of nowhere.
+JaneHolifield: Finally, someone who understands beauty.
+JaneHolifield: Think about how everything here was built right under human civilization.
+JaneHolifield: Think about how they lived, what they ate, and what their culture was.
+Up until now, Jane has been silent, it is slightly surprising to hear Jane being so energetic and vocal about her thoughts.
+Jane's energy suddenly shifts to a calm demeanor.
+While holding her hand in front of her mouth. She says to you.
+JaneHolifield: *cough* Anyway, I must start my research.
+Jane walks away silently, leaving you wondering about her sudden change in behavior.
+@hideChars
+
+@char KatieMaxwell.Default pose:DefaultMiddle
+KatieMaxwell: She has always been excited about this ancient civilization.
+KatieMaxwell: I remember her showing me her collection for hours when I was little.
+Katie smiles and shakes her head, lost in memories.
+@char KatieMaxwell.Default pose:DefaultLeft
+@char TarosJones.Default pose:DefaultRight
+TarosJones: Heh, our Janie has always been obsessed with this crap.
+Taros picks some kind of phone-looking device.
+TarosJones: Anyways, why don't you two go look over the west side of the lab? I'll be right over here.
+Taros points to the west, where you can see some screens and more symbols on the walls.
+@hideChars
+
+You and Katie move to the west side of the lab, examining the screens and symbols.
+After a quick inspection, it seems like the symbols represent some sort of buttons or controls for something.
+@char KatieMaxwell.Default pose:DefaultMiddle
+KatieMaxwell: Oh yeah, I haven't been able to ask you how you're doing.
+KatieMaxwell: I know all of this must be quite overwhelming.
+TheContractor: *sigh* It is a lot, but I think I am managing.
+TheContractor: Mainly trying to figure out my past and what happened to me.
+@hideChars
+
+Why where you so attached to the artifact? What was it about the relic that made you feel so connected to it?
+Why can't you remember anything about your past? What happened to you?
+Pushing those thoughts aside for a moment, you look around the lab, remembering the time in the camp when you felt strangely attached to the artifact.
+@char KatieMaxwell.Default pose:DefaultMiddle
+You are about to talk to Katie about it when John rushes into the room.
+@char KatieMaxwell.Default pose:DefaultLeft
+@char JohnMaxwell.Default pose:DefaultRight
+JohnMaxwell: It's a trap! Ulysses just noticed a weird signal coming from here!
+As John finishes speaking, the cave starts to tremble, and you hear explosions.
+@char JohnMaxwell.Default pose:DefaultMiddle
+@char TarosJones.Default pose:DefaultRight
+TarosJones: Everyone, evacuate the lab now!
+@hideChars
+
+Just as you begin to run towards the entrance, a big rock falls in middle of the doorway, sealing the way out.
+@char KatieMaxwell.Default pose:DefaultMiddle
+KatieMaxwell: Goddamnit! What do we do now?!
+@char KatieMaxwell.Default pose:DefaultLeft
+@char JohnMaxwell.Default pose:DefaultRight
+JohnMaxwell: Calm down! We still have people outside.
+@char JohnMaxwell.Default pose:DefaultMiddle
+@char TarosJones.Default pose:DefaultRight
+TarosJones: We have to keep moving. Let's go deeper into the lab.
+TarosJones: If we stay here, we die.
+@hideChars
+
+Everyone starts running deeper into the lab, until even the ground itself starts to tremble.
+And then, the grounds gives away.
+You realize that the floor under you is crumbling and you all start falling down into the darkness below you.
+@char JaneHolifield.Default pose:DefaultMiddle
+JaneHolifield: Oh well, at least I'll die with the ancients.
+@char JaneHolifield.Default pose:DefaultLeft
+@char KatieMaxwell.Default pose:DefaultRight
+KatieMaxwell: Now is not the time for jokes!
+@hideChars
+
+Everyone starts falling and screaming, as you all fall into the darkness.
+You notice light below you, in the darkness, and you brace yourself for immediate demise.
+TheContractor: I'm going to die...!
+You close your eyes, accepting your fate.
+However the end doesn't come.
+Instead of hitting the ground, you feel a strange force lifting you up.
+@char JaneHolifield.Default pose:DefaultLeft
+@char KatieMaxwell.Default pose:DefaultMiddle
+@char TarosJones.Default pose:DefaultRight
+You open your eyes and see the rest of the team floating in the air, about twenty centimeters off the ground, just like you.
+@hideChars
+
+@char JohnMaxwell.Default pose:DefaultMiddle
+JohnMaxwell: What the hell... We were... but... that's impossible.
+JohnMaxwell: Coming to a sudden stop like this... Inertia itself should have killed us. What the hell is going here?
+@hide JohnMaxwell
+
+@char KatieMaxwell.Default pose:DefaultMiddle
+KatieMaxwell: Is... Is everyone alright?
+You notice Katie is still shaken from the fall, but manages to keep her composure.
+@char KatieMaxwell.Default pose:DefaultLeft
+@char JohnMaxwell.Default pose:DefaultRight
+JohnMaxwell: I... I think so.
+@char JohnMaxwell.Default pose:DefaultMiddle
+@char TarosJones.Default pose:DefaultRight
+TarosJones: I'm fine!
+You notice that everyone seems safe and sound, except for Jane who has not spoked yet.
+@hideChars
+
+@char JaneHolifield.Default pose:DefaultMiddle
+You search for Jane, and see her floating still, looking around herself, her head swiveling around.
+TheContractor: Jane, is everything alrigh-
+JaneHolifield: MAGNIFICENT!
+JaneHolifield: This is... This is... I can't believe it!
+JaneHolifield: We are breaking the laws of physics right now! There must be some kind of inertia dampening field around us!
+JaneHolifield: This is ancient technology for sure! This is... This is...!
+Jane seems lost in her own world, as she looks around in awe.
+@hideChars
+
+You turn towards everyone else, and see that they are equally amazed and confused.
+@char TarosJones.Default pose:DefaultMiddle
+TarosJones: That's Janie alright.
+@char TarosJones.Default pose:DefaultLeft
+@char KatieMaxwell.Default pose:DefaultRight
+KatieMaxwell: She's always been like this when it comes to ancient technology.
+Katie raises his hand over her forehead.
+KatieMaxwell: *sigh* Now I feel stupid for getting scared over this.
+@char TarosJones.Default pose:DefaultLeft
+@char KatieMaxwell.Default pose:DefaultMiddle
+@char JohnMaxwell.Default pose:DefaultRight
+JohnMaxwell: Focus! Dangers not over yet!
+JohnMaxwell: We need to find a way out of here.
+John's voice snaps everyone back into reality.
+You've just avoided a close encounter with death, but you're still not out of the woods yet. You need to get out of this place and find out where you are.
+KatieMaxwell: Right, let's try to figure out how to get out of this... Inertia dampening field?
+KatieMaxwell: Jane, any thoughts?
+@hideChars
+
+@char JaneHolifield.Default pose:DefaultMiddle
+You look at Jane, and she seems to have finally come back from whatever trance she was in.
+JaneHolifield: I'm still trying to figure out how this works. But I think we need to find the source of this field.
+JaneHolifield: There should be a transmitter or a generator somewhere around here, which is supplying power to this field and keeping us afloat.
+@hideChars
+
+Suddenly you get the same feel as in with the relic before, but much stronger.
+You suddently feel like saying words, which do not make sense, or which you can't understand.
+You say, in a monotome voice.
+TheContractor: <i>Deactivate the levitation field.</i>
+
+@char JohnMaxwell.Default pose:DefaultLeft
+@char KatieMaxwell.Default pose:DefaultMiddle
+@char TarosJones.Default pose:DefaultRight
+Everyone looks at you in confusion.
+@hideChars
+Everyone suddenly falls onto the floor. The field that was holding all of you in place, has vanished.
+
+@char JohnMaxwell.Default pose:DefaultMiddle
+John looks at you, with a mix of confusion and awe.
+JohnMaxwell: What the hell just happened?
+TheContractor: I... I don't know. I just felt like I had to say that.
+You notice the feeling has left you, and you feel normal again.
+@hideChars
+
+Suddenly, you feel it again. It feels like you need to go somewhere.
+You look and point to the east, without knowing why.
+You speak in monotone voice again.
+TheContractor: <i>We should go there...</i>
+You start walking towards the east.
+
+@char JohnMaxwell.Default pose:DefaultMiddle
+JohnMaxwell: What is going on? Why is he acting like this?
+@char JohnMaxwell.Default pose:DefaultLeft
+@char KatieMaxwell.Default pose:DefaultRight
+KatieMaxwell: I don't know, but it's not like we have any other options. We either wait to be rescued or follow him.
+@char KatieMaxwell.Default pose:DefaultMiddle
+@char TarosJones.Default pose:DefaultRight
+TarosJones: I agree. Let's follow him. We'll hopefully figure out a way out of here, or at least find some answers.
+@hide JohnMaxwell
+@char KatieMaxwell.Default pose:DefaultLeft
+@char TarosJones.Default pose:DefaultMiddle
+@char JaneHolifield.Default pose:DefaultRight
+JaneHolifield: He might be onto something. Let's go!
+@hideChars
+
+You don't know what awaits you in the east, but you feel like it has something to do with your lost memory.
+*End of 03_Act2Scene2*
+@stop
+
+Comment Section:
+
+Original Script:
+
+-	You look outside of the truck and see the environment change.
+-	You have gone through deserts, ruined cities and arid wastelands.
+(wanted to put some world building here like saying what you can see outside and so on tell me if this is not natural and if it should be changed)
+EDIT: I added more to the beginning to make it more interesting and to give more information about the world.
+
+-	Now as you look outside you see a large mountain range.
+JOHN: We are finally here, Katie take the tools, Jane gather your equipment, Contractor help carry the food and medicine, Taros you’re in charge until I make sure the perimeter is secured.
+(Havent actually thaught about what katies role in this company is so I just wrote tools. Been thinking that she could be a mechanic maybe or should taros be mechanic)
+-	Everyone nods. The mood still seems quite tense but at least so far, no Earthflame problems so it seems like this might go well.
+EDIT: Minor edits.
+
+TAROS: Arright people let’s move out.
+-You follow Taros to the cave.
+-The cave for a minute looks empty and dark but suddenly you arrive to a room with weird lighting and symbols.
+TheContractor: Woah. Is this the lab. I have never seen something so beautiful.
+-Suddenly Jane pops out from out of nowhere.
+JANE: Finally, someone understands beauty. 
+JANE: Think about how everything here was built right under human civilization.
+JANE: Think about how they lived, what they ate and what their culture was.
+-Suddenly Jane completely changes from energetic to her usual calm self.
+JANE: *cough* anyway I must start my research.
+-You look in shock at Jane just walking away in silence.
+KATIE: She has always been excited about this ancient civilization.
+KATIE: I remember vividly her showing me around her collection for hours when I was little.
+-Katie smiles and looks away in memory.
+TAROS: Heh, our Janie has always been obsessed with these things.
+-Taros lifts some kind of phone looking device.
+TAROS: Anyways why dont’ya two go look over the west side of the lab I’ll be right over here.
+-You and Katie move over to the west side. You see some kind of screens as well as more of the symbols around. It seems as though the symbols are some sort of buttons or controls.
+KATIE: Oh yea. I haven’t been able to ask ya about how you doing.
+KATIE: I know all of this must be quite overwhelming.
+EDIT: Minor edits.
+
+(Should/can we have a choice here. Just something simple as “oh im doing fine” or “im still confused blah blah”) (gonna write this like we don’t have a choice here but ill fix it if we decide to have a choice here)
+(Sami) Yeah we could have choice here. I think it would be a good idea to give the player some agency in how they respond to Katie's question.
+TheContractor: *sigh* It is a lot, but I think I am managing. 
+TheContractor: Mainly trying to just figure out my past.
+-You look at the lab and remember the time in the camp with you feeling weirdly attached to the artifact.
+EDIT: Extended "inner" dialogue a bit, to give a bit more specifics about what the player is feeling.
+
+-You are about to talk about that to Katie until you see John running from outside.
+JOHN: It’s a trap! Ulysses just noticed a weird signal from here.
+-Just as John has finished speaking the cave starts to tremble and you hear many explosions.
+TAROS: Everyone move fast outside!
+-A big rock just falls on the only path outside.
+KATIE: Shit! What do we do now!
+(Wanted to add this line to katie as it makes her character more unique. Usually she is the calm mature one but this still shows the fact that she is an inexperienced young adult and not a seasoned veteran used to dangerous situations like this.)
+TAROS: We have to keep going if we stay here we’ll die.
+-The team starts moving until even the ground starts to tremble.
+-Then the worst happens. The floor under you shatters and all of you fall.
+JANE: At least ill die with the ancients.
+KATIE: It can’t end like this.
+-You surrender yourself to the fact that your journey ended as fast as it started.
+(I cant think of a better way but wanted to do one empty line or something to kind of make the player think the team actually diead)
+-Then suddenly a light emerges and the team is lifted slightly above the ground.
+JOHN: what the hell. We- We were- but. That’s impossible.
+KATIE: Everyone allright.
+-John shakes his head and regains his composure
+JOHN: I think so. Now let’s find where the hell are we.
+EDIT: I lenghtened this part quite a bit to give more information about the situation, give Jane a moment to shine and to give the player a moment to think about what is happening.
+EDIT: There might be a narrative conflict, with player "deactivating the field" If you have better idea, tell me and I'll fix it.
+EDIT: The command to deactivate the field is in italics to show that it's not a normal action. It's like the player is being controlled by something else.
+EDIT: Also should we make the command be in some symbols or something like that. I think it would be cool if the command was in some kind of ancient language or something like that.
+
+-Suddenly you get the same feel as in with the relic before, but much stronger.
+-Before you even regain control of your body you already speak as if on autopilot.
+TheContractor: We should go there. 
+-You point to the east.. you think.
+-Everyone looks at you in confusion, but after a few seconds they follow you.
+-You don’t know what awaits you in where ever you are going, but you know its something to do with your lost memory.
+(Big question mainly to sami. How long is the act2 now like should I move to act 3 or do we keep going with act 2.)
+EDIT: Minor edits. No idea about the length of the act, but I think we could move to Act 3. I think this scene is a good place to end Act 2.
+EDIT: Depends on what we do in the next scene. If it's completely different from the act 2, then we should move to act 3. If it's a continuation of the story, then we should keep it in act 2.
