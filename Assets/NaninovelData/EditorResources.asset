@@ -11,69 +11,44 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06386b10f29c770408fc88b031c4d7fd, type: 3}
   m_Name: EditorResources
-  m_EditorClassIdentifier: 
+  m_EditorClassIdentifier: Elringus.Naninovel.Editor::Naninovel.EditorResources
   resourceCategories:
-  - Id: TextPrinters/30c047e8-f166-4a86-8ebf-89d1e4660c4b
+  - Id: TextPrinters/cb44fbdf-4736-4f86-83b5-7eef7693b58a
     Resources:
     - name: Dialogue
       pathPrefix: TextPrinters
       guid: 1bc08ccd31adff6439e97161aa6e1d8b
-  - Id: TextPrinters/e0ed792e-bc96-4ad7-a084-520273acc6ca
+  - Id: TextPrinters/831f587e-03d2-4fc1-bdfc-6fd222f3406f
     Resources:
     - name: Fullscreen
       pathPrefix: TextPrinters
       guid: c87cebd3f0d4f174789cd351ce9591c4
-  - Id: TextPrinters/776c6ce3-c970-45eb-b400-221eb28eafb4
+  - Id: TextPrinters/aa14c8d3-b557-4751-a061-28bb6acf5340
     Resources:
     - name: Wide
       pathPrefix: TextPrinters
       guid: 781828b806deb1e4cbf50ef9de41da10
-  - Id: TextPrinters/a29a7bab-7fff-49b9-8336-72da7e89b202
+  - Id: TextPrinters/3b61ab35-e893-47dc-a1de-c4bea7a31eb7
     Resources:
     - name: Chat
       pathPrefix: TextPrinters
-      guid: 0126b92e4ff0f564aaa7a38eae3ef6e7
-  - Id: TextPrinters/5a9e8b60-717f-4efe-802d-48a388e54a01
+      guid: 6f9836a3c4f777741b1962979d97e485
+  - Id: TextPrinters/f6ee0856-c6dc-4e4d-b55a-ebd1833aebb9
     Resources:
     - name: Bubble
       pathPrefix: TextPrinters
       guid: b47d9659b2be5ee4e95a776f213c9d4b
-  - Id: TextPrinters/f8062b88-83f3-44e2-a220-fff4f118c532
-    Resources:
-    - name: TMProDialogue
-      pathPrefix: TextPrinters
-      guid: 5838611042eaced44954639c4ea4d81e
-  - Id: TextPrinters/72c0d944-a3ad-4bb0-9503-402f6e1c5591
-    Resources:
-    - name: TMProFullscreen
-      pathPrefix: TextPrinters
-      guid: a2aaa417785eeca409e78c404f333ee5
-  - Id: TextPrinters/297428ac-f985-4127-92fb-448c8885ec8b
-    Resources:
-    - name: TMProWide
-      pathPrefix: TextPrinters
-      guid: 7860ef40eae6a3341be02586f7edd980
-  - Id: TextPrinters/10b5a59c-364e-46bf-8477-54b24990e47c
-    Resources:
-    - name: TMProChat
-      pathPrefix: TextPrinters
-      guid: 6f9836a3c4f777741b1962979d97e485
-  - Id: TextPrinters/f0217fc5-23c0-4e94-aefd-8215ec230bf6
-    Resources:
-    - name: TMProBubble
-      pathPrefix: TextPrinters
-      guid: 18cfa78b5fc89b745ba69d51a6a8629a
-  - Id: ChoiceHandlers/891b8619-8d98-4ee1-8fca-a828a7f07655
+  - Id: ChoiceHandlers/1a6463ba-2bf8-43a1-90eb-86a27f37454f
     Resources:
     - name: ButtonList
       pathPrefix: ChoiceHandlers
       guid: 1f6aa29000e839c409e6a9c0704adc96
-  - Id: ChoiceHandlers/c229b0ee-e7fd-46b5-ada5-f4e045812a84
+  - Id: ChoiceHandlers/5e24ec1a-b6c8-40c9-97cb-6724972d9b4d
     Resources:
     - name: ButtonArea
       pathPrefix: ChoiceHandlers
       guid: 4fa6d62f894ae6e4698bfa8af59e7942
-  - Id: ChoiceHandlers/3403faf4-a9c4-40be-8948-8cdd8e2a0034
+  - Id: ChoiceHandlers/ac78f89e-51ae-4452-b715-ca799559dcc2
     Resources:
     - name: ChatReply
       pathPrefix: ChoiceHandlers
@@ -166,52 +141,23 @@ MonoBehaviour:
     - name: ToastUI
       pathPrefix: UI
       guid: dd85ce99288c2f8488447fa511b1c0d6
+    - name: ScriptNavigatorUI
+      pathPrefix: UI
+      guid: 735d6aa767879aa469134858c5b2f0a7
   - Id: Scripts
     Resources:
-    - name: SampleSceneScript
-      pathPrefix: Scripts
-      guid: af17bebc579fe7f44913ddf0b37eb0e8
-    - name: 00_IntroductionScene
-      pathPrefix: Scripts
-      guid: 32c15ae1dfcad3a46aa9d4a1972a7b7a
-    - name: 01_IntroductionScene
-      pathPrefix: Scripts
-      guid: 1297f5ffe34f8044d869c2490b81ee5e
     - name: 02_Act2Scene1
       pathPrefix: Scripts
       guid: 8f3b136aaaeaee54bb010784a90239b1
     - name: 03_Act2Scene2
       pathPrefix: Scripts
       guid: ce0caf1b5c1a94b48965989cfbc2a0dc
-  - Id: Characters/832ac23e-61e4-4bab-9007-67f48301103c
-    Resources:
-    - name: Default
-      pathPrefix: Characters/KalleWoman
-      guid: 6f9af7bb10527cb47927cfae46154b7e
-  - Id: CharacterAvatars
-    Resources: []
-  - Id: Characters/faae3292-1e41-438c-802b-e585984d59c3
-    Resources:
-    - name: Default
-      pathPrefix: Characters/JohnMaxwell
-      guid: 085171cf56c9dca4e91e26a933cfa2cd
-  - Id: Characters/d8e58ffa-b52b-4c6c-8a07-3e4cd995dbaf
-    Resources:
-    - name: Default
-      pathPrefix: Characters/TarosJones
-      guid: 18c10fb36fd34c14a85de8d81937989a
-  - Id: Characters/8a0cbf6a-d44d-45c7-a51c-aeb98ba014ea
-    Resources:
-    - name: Default
-      pathPrefix: Characters/KatieMaxwell
-      guid: beb6c67d4a9c292489251f577e8281cb
-  - Id: Characters/1131819e-2847-46e6-beaf-3b0bf7c87466
-    Resources:
-    - name: Default
-      pathPrefix: Characters/JaneHolifield
-      guid: 315346ee4c44af34fa5d99828d3fd979
-  - Id: Characters/345631fe-b808-4dd9-bc9c-021cd8fd7599
-    Resources:
-    - name: Default
-      pathPrefix: Characters/TheContractor
-      guid: aecd4d7925b0d1140bde28831b9da6c3
+    - name: 00_IntroductionScene
+      pathPrefix: Scripts
+      guid: 32c15ae1dfcad3a46aa9d4a1972a7b7a
+    - name: SampleSceneScript
+      pathPrefix: Scripts
+      guid: af17bebc579fe7f44913ddf0b37eb0e8
+    - name: 01_IntroductionScene
+      pathPrefix: Scripts
+      guid: 1297f5ffe34f8044d869c2490b81ee5e

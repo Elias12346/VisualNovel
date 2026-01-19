@@ -11,7 +11,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 38acf29c06b5d7e41aecac8361cc7e57, type: 3}
   m_Name: ChoiceHandlersConfiguration
-  m_EditorClassIdentifier: 
+  m_EditorClassIdentifier: Elringus.Naninovel.Runtime::Naninovel.ChoiceHandlersConfiguration
   DefaultDuration: 0.35
   DefaultEasing: 0
   AutoShowOnModify: 1
@@ -33,7 +33,7 @@ MonoBehaviour:
         Culture=neutral, PublicKeyToken=null
       - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
-    guid: e7a24045-b76e-43b8-ac02-c1af7045d887
+    guid: fcde9f1c-8ff0-4d66-835f-806854da2fb4
     customData:
       rid: -2
     WaitHideOnChoice: 0
@@ -52,7 +52,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: 891b8619-8d98-4ee1-8fca-a828a7f07655
+      guid: 1a6463ba-2bf8-43a1-90eb-86a27f37454f
       customData:
         rid: -2
       WaitHideOnChoice: 0
@@ -65,7 +65,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: c229b0ee-e7fd-46b5-ada5-f4e045812a84
+      guid: 5e24ec1a-b6c8-40c9-97cb-6724972d9b4d
       customData:
         rid: -2
       WaitHideOnChoice: 0
@@ -78,7 +78,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: 3403faf4-a9c4-40be-8948-8cdd8e2a0034
+      guid: ac78f89e-51ae-4452-b715-ca799559dcc2
       customData:
         rid: -2
       WaitHideOnChoice: 0
