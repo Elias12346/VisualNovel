@@ -1,4 +1,5 @@
 {
+    "version": 1,
     "name": "DefaultControls",
     "maps": [
         {
@@ -27,7 +28,7 @@
                     "name": "Continue",
                     "type": "Button",
                     "id": "96a03d77-4cb7-4d3d-bbc2-15da419a031d",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -54,7 +55,7 @@
                     "name": "ToggleSkip",
                     "type": "Button",
                     "id": "50b9187c-1ed8-428e-853b-e4cb02af8518",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -396,6 +397,17 @@
                     "path": "*/{ScrollVertical}",
                     "interactions": "",
                     "processors": "Invert,Clamp(max=1)",
+                    "groups": "",
+                    "action": "Continue",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6673a42e-d31f-4b87-8a3e-c793d57586bc",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
                     "groups": "",
                     "action": "Continue",
                     "isComposite": false,

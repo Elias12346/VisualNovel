@@ -1,5 +1,3 @@
-*Start of 00_IntroductionScene*
-
 You are awakened by a bright light, shining on your eyes accompanied by a woman's voice, which is questioning you.
 KatieMaxwell: Hey! Are you okay?
 
@@ -75,7 +73,6 @@ KatieMaxwell: Hah! Well ain't that the truth. Welcome to Maxwell Company Contrac
 @hide KatieMaxwell
 
 You gather your belongings and start following Katie towards small tent looking building.
-*End of 00_IntroductionScene*
 
-@goto 01_IntroductionScene
+@goto Scene2
 @stop
