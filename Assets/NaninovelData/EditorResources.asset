@@ -180,3 +180,10 @@ MonoBehaviour:
     - name: Scene4
       pathPrefix: Scripts
       guid: 5876fcb7a45ac0542b070368a664d70d
+  - Id: CharacterAvatars
+    Resources: []
+  - Id: Characters/6a8678a8-cd89-4fd2-98bd-080f7dfbebb8
+    Resources:
+    - name: Default
+      pathPrefix: Characters/KatieMaxwell
+      guid: 894fecaec8ff0ad4b9471e7b5f1c36fc
