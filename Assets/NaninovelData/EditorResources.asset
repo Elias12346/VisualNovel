@@ -187,3 +187,18 @@ MonoBehaviour:
     - name: Default
       pathPrefix: Characters/KatieMaxwell
       guid: 894fecaec8ff0ad4b9471e7b5f1c36fc
+  - Id: Characters/705abe43-1f76-459f-99c3-8c5f4c4e778c
+    Resources:
+    - name: Default
+      pathPrefix: Characters/JohnMaxwell
+      guid: 6875e9f5536f95e41ad3e4a78458e622
+  - Id: Characters/0b2ff1c1-c014-4c10-8f8d-6ab387b8c8e2
+    Resources:
+    - name: Default
+      pathPrefix: Characters/JaneHolifield
+      guid: 9de12a4870a73034481a3efae9251fbe
+  - Id: Characters/4a8028a1-8165-4883-98b6-8b5ea0524be7
+    Resources:
+    - name: Default
+      pathPrefix: Characters/TarosJones
+      guid: c0775d10f178d2549a950e20dc9409f0
