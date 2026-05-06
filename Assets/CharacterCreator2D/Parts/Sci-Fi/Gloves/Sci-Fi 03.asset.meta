@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 10c42fca29f42bd428630d1b2bbb4692
+timeCreated: 1561535756
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150611
+  packageName: Sci-Fi Pack for Character Creator 2D
+  packageVersion: 1.20
+  assetPath: Assets/CharacterCreator2D/Parts/Sci-Fi/Gloves/Sci-Fi 03.asset
+  uploadId: 846198

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5cd674aaae1cad74bb41e7bc366a5060
+timeCreated: 1579699177
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 161946
+  packageName: Daily Life Pack for Character Creator 2D
+  packageVersion: 1.20
+  assetPath: Assets/CharacterCreator2D/Parts/Daily/Skin Details/Face Tattoo 00.asset
+  uploadId: 846178

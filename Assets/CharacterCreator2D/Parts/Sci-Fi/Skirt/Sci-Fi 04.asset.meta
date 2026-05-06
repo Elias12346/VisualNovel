@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 12938915ba6efe147b045a0c963c807b
+timeCreated: 1579102606
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150611
+  packageName: Sci-Fi Pack for Character Creator 2D
+  packageVersion: 1.20
+  assetPath: Assets/CharacterCreator2D/Parts/Sci-Fi/Skirt/Sci-Fi 04.asset
+  uploadId: 846198

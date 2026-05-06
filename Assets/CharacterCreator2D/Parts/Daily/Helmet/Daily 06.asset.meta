@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 40d4b93d6e69eac4b84a7dd5544caab6
+timeCreated: 1577706966
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 161946
+  packageName: Daily Life Pack for Character Creator 2D
+  packageVersion: 1.20
+  assetPath: Assets/CharacterCreator2D/Parts/Daily/Helmet/Daily 06.asset
+  uploadId: 846178

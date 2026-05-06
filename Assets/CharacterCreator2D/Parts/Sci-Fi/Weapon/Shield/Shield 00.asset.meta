@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 71572e00c106d4a4da39a6a84cac1c49
+timeCreated: 1563188033
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150611
+  packageName: Sci-Fi Pack for Character Creator 2D
+  packageVersion: 1.20
+  assetPath: Assets/CharacterCreator2D/Parts/Sci-Fi/Weapon/Shield/Shield 00.asset
+  uploadId: 846198

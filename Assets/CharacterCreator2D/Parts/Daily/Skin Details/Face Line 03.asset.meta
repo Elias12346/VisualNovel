@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b2db0549642bb3a42a52e350e12caf79
+timeCreated: 1579771143
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 161946
+  packageName: Daily Life Pack for Character Creator 2D
+  packageVersion: 1.20
+  assetPath: Assets/CharacterCreator2D/Parts/Daily/Skin Details/Face Line 03.asset
+  uploadId: 846178

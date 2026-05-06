@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 29cfc445d7cc89b4690b7add80e3af50
+timeCreated: 1559603339
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150611
+  packageName: Sci-Fi Pack for Character Creator 2D
+  packageVersion: 1.20
+  assetPath: Assets/CharacterCreator2D/Parts/Sci-Fi/Hair/Sci-Fi 12.asset
+  uploadId: 846198

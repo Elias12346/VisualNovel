@@ -46,7 +46,7 @@
                     "name": "Skip",
                     "type": "Button",
                     "id": "09ffc7b1-876b-4bd2-a08d-cd0d2084d572",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -186,6 +186,17 @@
                     "name": "",
                     "id": "9d910687-dcae-4f6a-ab26-199abf688f90",
                     "path": "<Keyboard>/ctrl",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Skip",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e62ff4f7-1d3f-4bfa-a2e4-f0e571b4650a",
+                    "path": "<Keyboard>/leftCtrl",
                     "interactions": "",
                     "processors": "",
                     "groups": "",

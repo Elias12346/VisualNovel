@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7c79d670c401f294d8403e723a9b6c9e
+timeCreated: 1577702737
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 161946
+  packageName: Daily Life Pack for Character Creator 2D
+  packageVersion: 1.20
+  assetPath: Assets/CharacterCreator2D/Parts/Daily/Armor/Daily 06 Female.asset
+  uploadId: 846178

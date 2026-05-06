@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: afacf7ab9e3868e458c3bc29f5db4c05
+timeCreated: 1563180465
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150611
+  packageName: Sci-Fi Pack for Character Creator 2D
+  packageVersion: 1.20
+  assetPath: Assets/CharacterCreator2D/Parts/Sci-Fi/Weapon/Two Handed/Spear 01.asset
+  uploadId: 846198

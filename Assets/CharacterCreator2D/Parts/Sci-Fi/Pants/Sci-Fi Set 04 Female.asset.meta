@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 56a791099b942254297cc5180ce52680
+timeCreated: 1557914954
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150611
+  packageName: Sci-Fi Pack for Character Creator 2D
+  packageVersion: 1.20
+  assetPath: Assets/CharacterCreator2D/Parts/Sci-Fi/Pants/Sci-Fi Set 04 Female.asset
+  uploadId: 846198

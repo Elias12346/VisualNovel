@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 43f2e1ec3623dc4458e1376bb9c58a92
+timeCreated: 1579694110
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 161946
+  packageName: Daily Life Pack for Character Creator 2D
+  packageVersion: 1.20
+  assetPath: Assets/CharacterCreator2D/Parts/Daily/Hair/Daily 06.asset
+  uploadId: 846178

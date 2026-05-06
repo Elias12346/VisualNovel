@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e8f623fc86fe49a47b541b50da979649
+timeCreated: 1577951683
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 161946
+  packageName: Daily Life Pack for Character Creator 2D
+  packageVersion: 1.20
+  assetPath: Assets/CharacterCreator2D/Parts/Daily/Armor/Daily 08 Male.asset
+  uploadId: 846178

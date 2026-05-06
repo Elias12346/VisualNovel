@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b3cf47062c9ba074f8322cccd806432b
+timeCreated: 1553685736
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150611
+  packageName: Sci-Fi Pack for Character Creator 2D
+  packageVersion: 1.20
+  assetPath: Assets/CharacterCreator2D/Parts/Sci-Fi/Helmet/Sci-Fi Set 02.asset
+  uploadId: 846198

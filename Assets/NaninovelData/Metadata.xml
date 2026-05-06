@@ -17,7 +17,7 @@
         &lt;Id&gt;JohnMaxwell&lt;/Id&gt;
         &lt;Type&gt;Characters&lt;/Type&gt;
         &lt;Appearances&gt;
-          &lt;string&gt;JohnMaxwell&lt;/string&gt;
+          &lt;string&gt;Default&lt;/string&gt;
         &lt;/Appearances&gt;
         &lt;Description /&gt;
       &lt;/Actor&gt;
@@ -25,7 +25,7 @@
         &lt;Id&gt;JaneHolifield&lt;/Id&gt;
         &lt;Type&gt;Characters&lt;/Type&gt;
         &lt;Appearances&gt;
-          &lt;string&gt;JaneHolifield&lt;/string&gt;
+          &lt;string&gt;Default&lt;/string&gt;
         &lt;/Appearances&gt;
         &lt;Description /&gt;
       &lt;/Actor&gt;
@@ -33,7 +33,7 @@
         &lt;Id&gt;TarosJones&lt;/Id&gt;
         &lt;Type&gt;Characters&lt;/Type&gt;
         &lt;Appearances&gt;
-          &lt;string&gt;TarosJones&lt;/string&gt;
+          &lt;string&gt;Default&lt;/string&gt;
         &lt;/Appearances&gt;
         &lt;Description /&gt;
       &lt;/Actor&gt;
@@ -295,15 +295,15 @@
         &lt;Type&gt;Characters/KatieMaxwell&lt;/Type&gt;
       &lt;/Resource&gt;
       &lt;Resource&gt;
-        &lt;Path&gt;JohnMaxwell&lt;/Path&gt;
+        &lt;Path&gt;Default&lt;/Path&gt;
         &lt;Type&gt;Characters/JohnMaxwell&lt;/Type&gt;
       &lt;/Resource&gt;
       &lt;Resource&gt;
-        &lt;Path&gt;JaneHolifield&lt;/Path&gt;
+        &lt;Path&gt;Default&lt;/Path&gt;
         &lt;Type&gt;Characters/JaneHolifield&lt;/Type&gt;
       &lt;/Resource&gt;
       &lt;Resource&gt;
-        &lt;Path&gt;TarosJones&lt;/Path&gt;
+        &lt;Path&gt;Default&lt;/Path&gt;
         &lt;Type&gt;Characters/TarosJones&lt;/Type&gt;
       &lt;/Resource&gt;
     &lt;/Resources&gt;

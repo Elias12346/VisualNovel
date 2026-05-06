@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ab774ece15c1aa640a3f00f0d08ddb13
+timeCreated: 1562047737
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150611
+  packageName: Sci-Fi Pack for Character Creator 2D
+  packageVersion: 1.20
+  assetPath: Assets/CharacterCreator2D/Parts/Sci-Fi/Weapon/Gun/Gun 03.asset
+  uploadId: 846198
