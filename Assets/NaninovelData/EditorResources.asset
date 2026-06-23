@@ -186,7 +186,7 @@ MonoBehaviour:
     Resources:
     - name: Default
       pathPrefix: Characters/KatieMaxwell
-      guid: 894fecaec8ff0ad4b9471e7b5f1c36fc
+      guid: 49379f898fcecad449150e314f1cf81d
   - Id: Characters/705abe43-1f76-459f-99c3-8c5f4c4e778c
     Resources:
     - name: Default
@@ -201,4 +201,4 @@ MonoBehaviour:
     Resources:
     - name: Default
       pathPrefix: Characters/TarosJones
-      guid: c0775d10f178d2549a950e20dc9409f0
+      guid: a41b4261c11bb4342ad4672f8cdec620

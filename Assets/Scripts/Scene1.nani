@@ -1,7 +1,8 @@
 You are awakened by a bright light, shining on your eyes accompanied by a woman's voice, which is questioning you.
 KatieMaxwell: Hey! Are you okay?
 
-@char KatieMaxwell.Default pose:DefaultMiddle
+@char KatieMaxwell pos:20.50
+@char TarosJones pos:50.20
 
 You open your eyes to see a strange woman. She is wearing a dirty jumpsuit with belts and pockets.
 TheContractor: Oh... what's going on.
