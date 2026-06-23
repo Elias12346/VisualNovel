@@ -168,10 +168,10 @@ MonoBehaviour:
       guid: dd85ce99288c2f8488447fa511b1c0d6
   - Id: Scripts
     Resources:
-    - name: StartScene1
+    - name: Scene1
       pathPrefix: Scripts
       guid: edf03f37a1bc09e49b7fc7a7b5020db6
-    - name: Test1
+    - name: Scene2
       pathPrefix: Scripts
       guid: e16f451fac4467d47b72c999d2547dbc
     - name: Scene3
@@ -179,7 +179,7 @@ MonoBehaviour:
       guid: d35ad9c7911320f45834ed1d82eca0a4
     - name: Scene4
       pathPrefix: Scripts
-      guid: 5876fcb7a45ac0542b070368a664d70d
+      guid: ce0caf1b5c1a94b48965989cfbc2a0dc
   - Id: CharacterAvatars
     Resources: []
   - Id: Characters/6a8678a8-cd89-4fd2-98bd-080f7dfbebb8
