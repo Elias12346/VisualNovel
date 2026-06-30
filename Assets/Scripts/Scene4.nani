@@ -210,6 +210,7 @@ JaneHolifield: He might be onto something. Let's go!
 
 You don't know what awaits you in the east, but you feel like it has something to do with your lost memory.
 *End of 03_Act2Scene2*
+@goto Scene5
 @stop
 
 Comment Section:
@@ -222,12 +223,12 @@ Original Script:
 EDIT: I added more to the beginning to make it more interesting and to give more information about the world.
 
 -	Now as you look outside you see a large mountain range.
-JOHN: We are finally here, Katie take the tools, Jane gather your equipment, Contractor help carry the food and medicine, Taros you’re in charge until I make sure the perimeter is secured.
+JOHN: We are finally here, Katie take the tools, Jane gather your equipment, Contractor help carry the food and medicine, Taros youï¿½re in charge until I make sure the perimeter is secured.
 (Havent actually thaught about what katies role in this company is so I just wrote tools. Been thinking that she could be a mechanic maybe or should taros be mechanic)
 -	Everyone nods. The mood still seems quite tense but at least so far, no Earthflame problems so it seems like this might go well.
 EDIT: Minor edits.
 
-TAROS: Arright people let’s move out.
+TAROS: Arright people letï¿½s move out.
 -You follow Taros to the cave.
 -The cave for a minute looks empty and dark but suddenly you arrive to a room with weird lighting and symbols.
 TheContractor: Woah. Is this the lab. I have never seen something so beautiful.
@@ -243,13 +244,13 @@ KATIE: I remember vividly her showing me around her collection for hours when I 
 -Katie smiles and looks away in memory.
 TAROS: Heh, our Janie has always been obsessed with these things.
 -Taros lifts some kind of phone looking device.
-TAROS: Anyways why dont’ya two go look over the west side of the lab I’ll be right over here.
+TAROS: Anyways why dontï¿½ya two go look over the west side of the lab Iï¿½ll be right over here.
 -You and Katie move over to the west side. You see some kind of screens as well as more of the symbols around. It seems as though the symbols are some sort of buttons or controls.
-KATIE: Oh yea. I haven’t been able to ask ya about how you doing.
+KATIE: Oh yea. I havenï¿½t been able to ask ya about how you doing.
 KATIE: I know all of this must be quite overwhelming.
 EDIT: Minor edits.
 
-(Should/can we have a choice here. Just something simple as “oh im doing fine” or “im still confused blah blah”) (gonna write this like we don’t have a choice here but ill fix it if we decide to have a choice here)
+(Should/can we have a choice here. Just something simple as ï¿½oh im doing fineï¿½ or ï¿½im still confused blah blahï¿½) (gonna write this like we donï¿½t have a choice here but ill fix it if we decide to have a choice here)
 (Sami) Yeah we could have choice here. I think it would be a good idea to give the player some agency in how they respond to Katie's question.
 TheContractor: *sigh* It is a lot, but I think I am managing. 
 TheContractor: Mainly trying to just figure out my past.
@@ -257,24 +258,24 @@ TheContractor: Mainly trying to just figure out my past.
 EDIT: Extended "inner" dialogue a bit, to give a bit more specifics about what the player is feeling.
 
 -You are about to talk about that to Katie until you see John running from outside.
-JOHN: It’s a trap! Ulysses just noticed a weird signal from here.
+JOHN: Itï¿½s a trap! Ulysses just noticed a weird signal from here.
 -Just as John has finished speaking the cave starts to tremble and you hear many explosions.
 TAROS: Everyone move fast outside!
 -A big rock just falls on the only path outside.
 KATIE: Shit! What do we do now!
 (Wanted to add this line to katie as it makes her character more unique. Usually she is the calm mature one but this still shows the fact that she is an inexperienced young adult and not a seasoned veteran used to dangerous situations like this.)
-TAROS: We have to keep going if we stay here we’ll die.
+TAROS: We have to keep going if we stay here weï¿½ll die.
 -The team starts moving until even the ground starts to tremble.
 -Then the worst happens. The floor under you shatters and all of you fall.
 JANE: At least ill die with the ancients.
-KATIE: It can’t end like this.
+KATIE: It canï¿½t end like this.
 -You surrender yourself to the fact that your journey ended as fast as it started.
 (I cant think of a better way but wanted to do one empty line or something to kind of make the player think the team actually diead)
 -Then suddenly a light emerges and the team is lifted slightly above the ground.
-JOHN: what the hell. We- We were- but. That’s impossible.
+JOHN: what the hell. We- We were- but. Thatï¿½s impossible.
 KATIE: Everyone allright.
 -John shakes his head and regains his composure
-JOHN: I think so. Now let’s find where the hell are we.
+JOHN: I think so. Now letï¿½s find where the hell are we.
 EDIT: I lenghtened this part quite a bit to give more information about the situation, give Jane a moment to shine and to give the player a moment to think about what is happening.
 EDIT: There might be a narrative conflict, with player "deactivating the field" If you have better idea, tell me and I'll fix it.
 EDIT: The command to deactivate the field is in italics to show that it's not a normal action. It's like the player is being controlled by something else.
@@ -285,7 +286,7 @@ EDIT: Also should we make the command be in some symbols or something like that.
 TheContractor: We should go there. 
 -You point to the east.. you think.
 -Everyone looks at you in confusion, but after a few seconds they follow you.
--You don’t know what awaits you in where ever you are going, but you know its something to do with your lost memory.
+-You donï¿½t know what awaits you in where ever you are going, but you know its something to do with your lost memory.
 (Big question mainly to sami. How long is the act2 now like should I move to act 3 or do we keep going with act 2.)
 EDIT: Minor edits. No idea about the length of the act, but I think we could move to Act 3. I think this scene is a good place to end Act 2.
 EDIT: Depends on what we do in the next scene. If it's completely different from the act 2, then we should move to act 3. If it's a continuation of the story, then we should keep it in act 2.

@@ -1,0 +1,73 @@
+*Start of Act2Scene3*
+You and the rest of the team have been walking the maze of tunnels and caves for who knows how long now. 
+You are watching the campfire while rest of the team is working on their own around you.
+Since dropping down here you have been half awake. 
+Whatever is here is really affecting you. Suddenly a familiar voice snaps you back to reality.
+
+@char KatieMaxwell.Default pose:DefaultLeft
+
+KatieMaxwell: Hey
+Katie sits next you and looks at the fire. After few seconds she continues.
+KatieMaxwell: Are you okay? You�ve been really quiet since we dropped here and after you used that weird voice it feels like you haven�t been here mentally.
+
+You look into the fire thinking back to the moment you stopped everyone floating.
+
+@hideChars
+
+TheContractor:  I- I don�t really know how to feel. 
+TheContractor: I mean how am I supposed to feel suddenly I am speaking in a different voice saying things I didn�t mean to say.
+TheContractor: It�s like I�m not even in control of my own mind anymore. 
+Suddenly Katie puts her hands on your shoulder.
+
+@char KatieMaxwell.Default pose:DefaultLeft
+
+You didn�t even notice you were breathing heavily but Katie�s comforting touch calms you down.
+KatieMaxwell: I can�t say I know how you feel, but.
+KatieMaxwell: I can say that we are all in this together and you are not alone.
+KatieMaxwell: Also I am sure Jane at least is eager to make sense of all of this. To her you are the most important person in the world.
+You start to feel a bit better after Katie�s words then suddenly you hear a familiar loud voice from your right.
+
+@char TarosJones.Default pose:DefaultRight
+
+TarosJones:Ya�all looking too full gloom and doom. But don�t worry I got something to change that.
+Smirking, Taros pulls a small bottle of some blue liquid from his pockets.
+TheContractor: Whats that?
+
+@hide KatieMaxwell
+
+Taros seems to light up as if he was waiting for someone to ask that.
+TarosJones: This my man is Delirian whiskey extract. Just need a little bit of water and boom you got a bottle of galaxies finest whiskey.
+Suddenly, John appears, sporting a mock angry expression.
+
+@char JohnMaxwell.Default pose:DefaultLeft
+
+JohnMaxwell:Well, well, well. Drinking on the job Taros? As the commanding officer I must make sure you don�t drink too much so I will confiscate part of it for myself.
+TarosJones: Oh but of course, I would never want to take this away from such a distinguished and proper officer. 
+The two friends laugh at each other.
+TarosJones: Let's get cooking.
+Taros rubs his hands together with an impatient look in his eyes.
+TarosJones: Oh we are going to experience heaven!
+You see Jane looking with slight interest at your group.
+
+@hideChars
+
+TheContractor: Hey Jane! Come drink with use.
+
+@char JaneHolifield.Default pose:DefaultLeft.
+
+JaneHolifield: Why would I on purpose hurt my cognitive ability with your poisons.
+
+@char JohnMaxwell.Default pose:DefaultRight
+
+JohnMaxwell: Hey, think of it as a science experiment. You will be able to see how you change while drunk.
+John puts on a large smile and even the usually cold face of Jane seems to melt under your and John�s positive mood.
+JaneHolifield: *Sigh* Well I suppose this could be useful for the future.
+
+@hideChars
+
+The five of you talks together around the fire and start drinking the whiskey.
+Taros was not lying the drink is very good whiskey.
+It helps lift the spirits of the team after many dark days walking around the damp and empty tunnels of the underground. 
+Finally, it seems like there is light on the other side of the tunnel.
+
+@stop
