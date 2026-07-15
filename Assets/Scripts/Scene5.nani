@@ -14,7 +14,7 @@ You look into the fire thinking back to the moment you stopped everyone floating
 
 @hideChars
 
-TheContractor:  I- I don�t really know how to feel. 
+TheContractor:  I- I don't really know how to feel. 
 TheContractor: I mean how am I supposed to feel suddenly I am speaking in a different voice saying things I didn�t mean to say.
 TheContractor: It�s like I�m not even in control of my own mind anymore. 
 Suddenly Katie puts her hands on your shoulder.
@@ -70,4 +70,5 @@ Taros was not lying the drink is very good whiskey.
 It helps lift the spirits of the team after many dark days walking around the damp and empty tunnels of the underground. 
 Finally, it seems like there is light on the other side of the tunnel.
 
+@goto Scene6
 @stop

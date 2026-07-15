@@ -16,14 +16,42 @@ MonoBehaviour:
   - scriptName: Scene1
     position:
       serializedVersion: 2
-      x: 197.6
-      y: 0
-      width: 116.79999
-      height: 100.799995
+      x: 68.8
+      y: 131.20001
+      width: 116.8
+      height: 100.79999
   - scriptName: Scene2
     position:
       serializedVersion: 2
-      x: 20
-      y: 0
-      width: 157.6
-      height: 100.799995
+      x: 220
+      y: 144.8
+      width: 116.79999
+      height: 100.8
+  - scriptName: Scene3
+    position:
+      serializedVersion: 2
+      x: 356
+      y: 165.6
+      width: 116.79999
+      height: 100.79999
+  - scriptName: Scene4
+    position:
+      serializedVersion: 2
+      x: 516.8
+      y: 184
+      width: 116.79999
+      height: 100.80002
+  - scriptName: Scene5
+    position:
+      serializedVersion: 2
+      x: 683.2
+      y: 212
+      width: 116.79999
+      height: 100.80002
+  - scriptName: Scene6
+    position:
+      serializedVersion: 2
+      x: 868.8
+      y: 273.6
+      width: 90.400024
+      height: 76.79999
