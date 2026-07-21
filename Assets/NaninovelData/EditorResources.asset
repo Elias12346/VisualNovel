@@ -211,3 +211,16 @@ MonoBehaviour:
     - name: Default
       pathPrefix: Characters/TarosJones
       guid: a41b4261c11bb4342ad4672f8cdec620
+  - Id: Backgrounds/9eff55da-3ca9-49b0-8e7f-1faed4066ec9
+    Resources:
+    - name: PSD
+      pathPrefix: Backgrounds/RuinedCity
+      guid: 237f6d40746fab5499bab91fc3e719f9
+  - Id: Backgrounds/cf9005c9-38ef-4ad4-807e-46c60017c5f3
+    Resources:
+    - name: PSD
+      pathPrefix: Backgrounds/MainBackground
+      guid: 237f6d40746fab5499bab91fc3e719f9
+    - name: Layer2
+      pathPrefix: Backgrounds/MainBackground
+      guid: b595ccf27a4210e4a9f86b39a2ce3df9
