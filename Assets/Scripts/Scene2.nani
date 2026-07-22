@@ -147,13 +147,16 @@ TheContractor: Hello, nice to meet you sir. I am called Contractor, and long sto
 JohnMaxwell: Don't worry son, and no need to be so prim and proper with me. I ain't no fancy pants and just call me John.
 JohnMaxwell: And sure I can ship ya to where ya want, but only after we get our job done here, and I know my daughter knows talent when she sees one.
 
-@hide JohnMaxwell
-@hide KatieMaxwell
+@hide JohnMaxwell time:1
+@hide KatieMaxwell time:1
 
 You see the relic John was talking to the workers about before, and for a moment you feel as if hypnotized by it.
+@spawn Blur
 Your eyes are drawn upon it and you find it mesmerising to look at...
+@wait 0.8
 Rest of the world seems to fade away and you can't help but feel as if you have seen it before...
-
+@wait 1.5
+@despawn Blur
 @char JohnMaxwell.Default pose:DefaultMiddle
 
 JohnMaxwell: You alright there son?

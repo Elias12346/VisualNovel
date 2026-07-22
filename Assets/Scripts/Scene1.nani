@@ -1,9 +1,10 @@
+@back Desert
+@spawn SunShafts
 You are awakened by a bright light, shining on your eyes accompanied by a woman's voice, which is questioning you.
 KatieMaxwell: Hey! Are you okay?
 
 @char KatieMaxwell pos:20.50
 @char TarosJones pos:50.20
-@back PSD
 
 You open your eyes to see a strange woman. She is wearing a dirty jumpsuit with belts and pockets.
 TheContractor: Oh... what's going on.
@@ -13,7 +14,6 @@ KatieMaxwell: Huh? You don't know where you are? Don't you remember where you're
 TheContractor: I'm.. I'm from...
 
 @hide KatieMaxwell
-@back Layer2
 
 Your mind feels... foggy? It's hard to focus... or to remember anything...
 You instinctively hold your hand against your forehead, and manage to remember something.

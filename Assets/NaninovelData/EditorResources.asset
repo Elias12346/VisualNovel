@@ -218,9 +218,9 @@ MonoBehaviour:
       guid: 237f6d40746fab5499bab91fc3e719f9
   - Id: Backgrounds/cf9005c9-38ef-4ad4-807e-46c60017c5f3
     Resources:
-    - name: PSD
+    - name: Desert
       pathPrefix: Backgrounds/MainBackground
-      guid: 237f6d40746fab5499bab91fc3e719f9
-    - name: Layer2
+      guid: 195079c7c0999b4499e9c28654358ebc
+    - name: Road
       pathPrefix: Backgrounds/MainBackground
-      guid: b595ccf27a4210e4a9f86b39a2ce3df9
+      guid: e2d1dee1fe5cd354c871736e3922a47e
