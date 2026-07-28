@@ -22,13 +22,13 @@ TarosJones: Hah! looks like ya recruited another miner with your charms Katie.
 Katie seems a bit embarrassed by that comment
 KatieMaxwell: *sigh* Listen Taros. This is a complicated situation and that joke died long ago.
 TarosJones: Come on, let your ol' uncle Taros have his fun.
-You see Katie shaking his head with a smile.
+You see Katie shaking her head with a smile.
 
 @hide KatieMaxwell
 @char TarosJones.Default pose:DefaultMiddle
 
 TarosJones: Like ya heard, name's Taros. What about ya?
-Taros has a very heavy... accent as he speaks? You can't quite place it, but it's definitely not from around here.
+Taros has a very heavy accent as he speaks. You can't quite place it, but it's definitely not from around here.
 TheContractor: Can't really remember my name but... call me Contractor.
 TarosJones: Simple! And to the point! I like that...
 He gives you a quick look over, as if he's trying to size you up.
@@ -93,7 +93,7 @@ And with that, Jane raises her head and turns around and leaves as fast as she a
 TheContractor: Uhm... Yes, nice to meet you too. You can call me Contractor.
 Jane stops for a moment and looks over her shoulder.
 JaneHolifield: Contractor, I see. I will remember that. Bye.
-And with that starts writing down notes again, ignoring you completely, mumbling to herself.
+And with that she starts writing down notes again, ignoring you completely, mumbling to herself.
 
 @hide JaneHolifield
 @char KatieMaxwell.Default pose:DefaultMiddle
@@ -106,12 +106,12 @@ TheContractor: I would have never guessed!
 Katie chuckles at your comment.
 TheContractor: I hope she doesn't blow up the whole camp with her experiments.
 KatieMaxwell: Usually the damage is contained to her lab, and she always promises us that "she has safeguards in place".
-TheContractor: "Always promises" huh? That's reassuring..."
-TheContractor: I wonder what kind of damage she would without those "safeguards" in place, if she already causes this much damage with them.
+TheContractor: "Always promises" huh? That's reassuring...
+TheContractor: I wonder what kind of damage she would do without those "safeguards" in place, if she already causes this much damage with them.
 
 @hide KatieMaxwell
 
-Now that you think about it... Maybe it's better if you don't think about it to deeply.
+Now that you think about it... Maybe it's better if you don't think about it too deeply.
 
 @show KatieMaxwell
 
@@ -140,18 +140,20 @@ JohnMaxwell: All right y'all. We finally found a new relic so be extremely caref
 
 KatieMaxwell: Hey dad, I got some business stuff to talk about.
 JohnMaxwell: Ah business... My favorite subject. Hah!
-Katie shakes his head at her father's joke.
+Katie shakes her head at her father's joke.
 JohnMaxwell: I'm guessin' that business got something to do with him here.
 You decide to try to make a good first impression, as he might be your ticket to Nicera.
-TheContractor: Hello, nice to meet you sir. I am called Contractor, and long story short. I have lost my memories and your daughter has helped me and promised me a way away from this planet if I help you.
+TheContractor: Hello, nice to meet you sir. I am called Contractor, and long story short. 
+TheContractor: I lost my memories and your daughter has helped me and promised me a way away from this planet if I help you.
 JohnMaxwell: Don't worry son, and no need to be so prim and proper with me. I ain't no fancy pants and just call me John.
 JohnMaxwell: And sure I can ship ya to where ya want, but only after we get our job done here, and I know my daughter knows talent when she sees one.
 
 @hide JohnMaxwell time:1
 @hide KatieMaxwell time:1
 
-You see the relic John was talking to the workers about before, and for a moment you feel as if hypnotized by it.
+You see the relic John was talking about.
 @spawn Blur
+For a moment you feel as if you were hypnotized by it.
 Your eyes are drawn upon it and you find it mesmerising to look at...
 @wait 0.8
 Rest of the world seems to fade away and you can't help but feel as if you have seen it before...

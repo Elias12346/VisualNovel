@@ -3,8 +3,8 @@
 During your journey, you've been looking outside of the truck, watching environments change before your eyes.
 You have traveled through scorching deserts, ruined cities of human civilization, and arid wastelands, previously lush grasslands now ruined by pollution caused by the previous inhabitants of this planet.
 At last, you spot a large mountain range, your target destination, far in the distance.
-John drives the car closer to the expected coordinates of the ancient lab, which is supposed to be inside somewhere.
-The car slows down and stops. John steps out of the car and speaks up.
+John drives the truck closer to the expected coordinates of the ancient lab, which is supposed to be inside the mountain somewhere.
+The truck slows down and stops. John steps out of the car and speaks up.
 
 @char JohnMaxwell.Default pose:DefaultMiddle
 JohnMaxwell: We are finally here.
@@ -96,7 +96,7 @@ TarosJones: If we stay here, we die.
 @hideChars
 
 Everyone starts running deeper into the lab, until even the ground itself starts to tremble.
-And then, the grounds gives away.
+And then, the ground gives way.
 You realize that the floor under you is crumbling and you all start falling down into the darkness below you.
 @char JaneHolifield.Default pose:DefaultMiddle
 JaneHolifield: Oh well, at least I'll die with the ancients.
@@ -131,7 +131,7 @@ JohnMaxwell: I... I think so.
 @char JohnMaxwell.Default pose:DefaultMiddle
 @char TarosJones.Default pose:DefaultRight
 TarosJones: I'm fine!
-You notice that everyone seems safe and sound, except for Jane who has not spoked yet.
+You notice that everyone seems safe and sound, except for Jane who has not spoken yet.
 @hideChars
 
 @char JaneHolifield.Default pose:DefaultMiddle
@@ -150,7 +150,7 @@ TarosJones: That's Janie alright.
 @char TarosJones.Default pose:DefaultLeft
 @char KatieMaxwell.Default pose:DefaultRight
 KatieMaxwell: She's always been like this when it comes to ancient technology.
-Katie raises his hand over her forehead.
+Katie raises her hand over her forehead.
 KatieMaxwell: *sigh* Now I feel stupid for getting scared over this.
 @char TarosJones.Default pose:DefaultLeft
 @char KatieMaxwell.Default pose:DefaultMiddle
@@ -170,8 +170,8 @@ JaneHolifield: There should be a transmitter or a generator somewhere around her
 @hideChars
 
 Suddenly you get the same feel as in with the relic before, but much stronger.
-You suddently feel like saying words, which do not make sense, or which you can't understand.
-You say, in a monotome voice.
+You suddenly feel like saying words, which do not make sense, or which you can't understand.
+You say, in a monotone voice.
 TheContractor: <i>Deactivate the levitation field.</i>
 
 @char JohnMaxwell.Default pose:DefaultLeft

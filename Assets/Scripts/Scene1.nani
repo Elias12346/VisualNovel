@@ -23,7 +23,7 @@ TheContractor: Nicera... I'm from Nicera...
 
 KatieMaxwell: Nicera?
 KatieMaxwell: Hmm... I've never heard of it. Is it a planet? A town?
-She inspects your face and notices your hand over your forehead with a worried expression.
+She worriedly inspects your face and notices your hand over your forehead.
 KatieMaxwell: ... Anyway, my name is Katie, what about you?
 TheContractor: Me? I am...
 You try to remember your name...
@@ -33,7 +33,7 @@ KatieMaxwell: Do you have any belongings?
 
 @hide KatieMaxwell
 
-You search the clothes you are wearing, eventually going through your pockets, in which you find a pocket with a notebook in it
+You search the clothes you are wearing, eventually going through your pockets, in which you find a pocket with a notebook in it.
 Nicera, Pluton PK-7189,  02120403, Jane, Rising Star and Armageddon.
 You read out loud random line of words from the notebook, without understanding their meaning.
 
@@ -43,10 +43,10 @@ KatieMaxwell: I have no idea what you are talking about but I've never heard of 
 She points to the sky, giving you a smile.
 KatieMaxwell: But who knows, it could be somewhere amongst the stars.
 TheContractor: But where are we? What planet is this? Do you have a spaceship?
-She gives you a dry laugh.
+She replies with a dry laugh.
 KatieMaxwell: Haha! Well that would be nice wouldn't it? But sorry, a GTS-class is something a small group like us could never afford.
 KatieMaxwell: And yeah... We are on Earth, the most polluted planet on this side of the galaxy.
-She smirks at you... But at the mention of earth, you feel a strange sense of familiarity.
+She smirks at you... But at the mention of Earth, you feel a strange sense of familiarity.
 TheContractor: Earth... I feel like there is something I need to do here.
 
 @hide KatieMaxwell
@@ -56,7 +56,7 @@ TheContractor: Maybe I should go looking for this Nicera, I could remember somet
 
 @show KatieMaxwell
 
-KatieMaxwell: Hmm, maybe my father can help you find this Nicera. We might not have an GTS-class ship but our old rustbucket still gets us from point A to point B.
+KatieMaxwell: Hmm, maybe my father can help you find this Nicera. We might not have a GTS-class ship but our old rustbucket still gets us from point A to point B.
 KatieMaxwell: But nothing is free, so you have to work for us. I have seen the logo on your notebook before.
 
 @hide KatieMaxwell
@@ -65,7 +65,7 @@ You look at the symbol and feel a sense of familiarity but... try as you might y
 
 @show KatieMaxwell
 
-You show the cover of the notebook to the Katie, and point at the logo on it.
+You show the cover of the notebook to Katie, and point at the logo on it.
 TheContractor: You mean this?
 KatieMaxwell: Yeah, it belongs to a pharmaceutical company that supplies us with our antidotes against the viruses and diseases in the mines, so maybe in the future you can help us out.
 You give a resigned sigh and smile looking at Katie.
@@ -75,7 +75,7 @@ KatieMaxwell: Hah! Well ain't that the truth. Welcome to Maxwell Company Contrac
 
 @hide KatieMaxwell
 
-You gather your belongings and start following Katie towards small tent looking building.
+You gather your belongings and start following Katie towards the small building reminding you of a tent.
 
 @goto Scene2
 @stop
