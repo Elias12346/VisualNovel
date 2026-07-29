@@ -43,6 +43,7 @@
         &lt;Appearances&gt;
           &lt;string&gt;Desert&lt;/string&gt;
           &lt;string&gt;Road&lt;/string&gt;
+          &lt;string&gt;Black&lt;/string&gt;
         &lt;/Appearances&gt;
       &lt;/Actor&gt;
       &lt;Actor&gt;
@@ -338,6 +339,10 @@
       &lt;/Resource&gt;
       &lt;Resource&gt;
         &lt;Path&gt;Road&lt;/Path&gt;
+        &lt;Type&gt;Backgrounds/MainBackground&lt;/Type&gt;
+      &lt;/Resource&gt;
+      &lt;Resource&gt;
+        &lt;Path&gt;Black&lt;/Path&gt;
         &lt;Type&gt;Backgrounds/MainBackground&lt;/Type&gt;
       &lt;/Resource&gt;
     &lt;/Resources&gt;

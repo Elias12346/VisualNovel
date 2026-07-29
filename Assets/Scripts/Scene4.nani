@@ -34,6 +34,7 @@ TarosJones: Arright people, let's get to work.
 Taros leads the way to the cave entrance. You follow him inside.
 @hideChars
 
+@back Black
 The cave is dark and empty at first, but as you walk further, you enter a room with strange lighting and symbols on the walls.
 TheContractor: Woah. Is this the lab? I've never seen anything like this before.
 @char JaneHolifield.Default pose:DefaultMiddle
@@ -249,45 +250,4 @@ TAROS: Anyways why dont�ya two go look over the west side of the lab I�ll be
 -You and Katie move over to the west side. You see some kind of screens as well as more of the symbols around. It seems as though the symbols are some sort of buttons or controls.
 KATIE: Oh yea. I haven�t been able to ask ya about how you doing.
 KATIE: I know all of this must be quite overwhelming.
-EDIT: Minor edits.
 
-(Should/can we have a choice here. Just something simple as �oh im doing fine� or �im still confused blah blah�) (gonna write this like we don�t have a choice here but ill fix it if we decide to have a choice here)
-(Sami) Yeah we could have choice here. I think it would be a good idea to give the player some agency in how they respond to Katie's question.
-TheContractor: *sigh* It is a lot, but I think I am managing. 
-TheContractor: Mainly trying to just figure out my past.
--You look at the lab and remember the time in the camp with you feeling weirdly attached to the artifact.
-EDIT: Extended "inner" dialogue a bit, to give a bit more specifics about what the player is feeling.
-
--You are about to talk about that to Katie until you see John running from outside.
-JOHN: It�s a trap! Ulysses just noticed a weird signal from here.
--Just as John has finished speaking the cave starts to tremble and you hear many explosions.
-TAROS: Everyone move fast outside!
--A big rock just falls on the only path outside.
-KATIE: Shit! What do we do now!
-(Wanted to add this line to katie as it makes her character more unique. Usually she is the calm mature one but this still shows the fact that she is an inexperienced young adult and not a seasoned veteran used to dangerous situations like this.)
-TAROS: We have to keep going if we stay here we�ll die.
--The team starts moving until even the ground starts to tremble.
--Then the worst happens. The floor under you shatters and all of you fall.
-JANE: At least ill die with the ancients.
-KATIE: It can�t end like this.
--You surrender yourself to the fact that your journey ended as fast as it started.
-(I cant think of a better way but wanted to do one empty line or something to kind of make the player think the team actually diead)
--Then suddenly a light emerges and the team is lifted slightly above the ground.
-JOHN: what the hell. We- We were- but. That�s impossible.
-KATIE: Everyone allright.
--John shakes his head and regains his composure
-JOHN: I think so. Now let�s find where the hell are we.
-EDIT: I lenghtened this part quite a bit to give more information about the situation, give Jane a moment to shine and to give the player a moment to think about what is happening.
-EDIT: There might be a narrative conflict, with player "deactivating the field" If you have better idea, tell me and I'll fix it.
-EDIT: The command to deactivate the field is in italics to show that it's not a normal action. It's like the player is being controlled by something else.
-EDIT: Also should we make the command be in some symbols or something like that. I think it would be cool if the command was in some kind of ancient language or something like that.
-
--Suddenly you get the same feel as in with the relic before, but much stronger.
--Before you even regain control of your body you already speak as if on autopilot.
-TheContractor: We should go there. 
--You point to the east.. you think.
--Everyone looks at you in confusion, but after a few seconds they follow you.
--You don�t know what awaits you in where ever you are going, but you know its something to do with your lost memory.
-(Big question mainly to sami. How long is the act2 now like should I move to act 3 or do we keep going with act 2.)
-EDIT: Minor edits. No idea about the length of the act, but I think we could move to Act 3. I think this scene is a good place to end Act 2.
-EDIT: Depends on what we do in the next scene. If it's completely different from the act 2, then we should move to act 3. If it's a continuation of the story, then we should keep it in act 2.

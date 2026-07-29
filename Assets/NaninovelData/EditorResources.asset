@@ -113,6 +113,9 @@ MonoBehaviour:
     - name: Blur
       pathPrefix: Spawn
       guid: e466d9326b30a4b49a3dad428b4d9968
+    - name: CampFire
+      pathPrefix: Spawn
+      guid: 
   - Id: UI
     Resources:
     - name: ClickThroughPanel
@@ -224,3 +227,11 @@ MonoBehaviour:
     - name: Road
       pathPrefix: Backgrounds/MainBackground
       guid: e2d1dee1fe5cd354c871736e3922a47e
+    - name: Black
+      pathPrefix: Backgrounds/MainBackground
+      guid: 12080c214fe2d404fbd22e339a94a55f
+  - Id: Characters/926fe707-d8aa-46d5-b09d-4e7a97fd3dd9
+    Resources:
+    - name: CampFire
+      pathPrefix: Characters/CampFire
+      guid: 5ac5d23b224c957469c26e158f028430
