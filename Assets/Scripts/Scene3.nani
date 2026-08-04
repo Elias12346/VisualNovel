@@ -5,7 +5,7 @@ The meeting place is a fireplace with tables and chairs surrounding it and then 
 
 @char JohnMaxwell.Default pose:DefaultMiddle
 John is standing in front of the table, surrounded by what seems to be other members of his expedition. The table is covered by huge map, which has been rolled over the table with annotations all over it.
-You notice John is already there, they seem to be discussing something important. You walk over to them and listen to the conversation.
+They seem to be discussing something important. You walk over to them and listen to the conversation.
 JohnMaxwell: Allright team! We have some info on a big find. An intact ancient lab of some sorts at these coordinates.
 John is pointing at a specific spot on the map, and the rest of the team is listening intently.
 
@@ -73,7 +73,7 @@ You nod in agreement and start following John.
 
 @hide JohnMaxwell
 You follow John to the garage, where you see a big wheeled vehicle that looks like a truck. It's old and weathered, but still strong and stable.
-You notice Ulysses and his team are already there, they are preparing for departure as well. They are loading their gear into the a separate vehicle from yours.
+You notice Ulysses and his team are already there, they are preparing for departure as well. They are loading their gear into a separate vehicle from yours.
 
 @char JohnMaxwell.Default pose:DefaultLeft
 @char JaneHolifield.Default pose:DefaultRight

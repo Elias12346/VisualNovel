@@ -57,7 +57,7 @@ KatieMaxwell: Alright... I think you have seen enough of the dig site, so I thin
 @spawn ShakeCharacter params:KatieMaxwell
 -BOOM-
 
-Suddenly you hear an loud explosion from a nearby building.
+Suddenly you hear a loud explosion from a nearby building.
 TheContractor: What the hell was that?!
 KatieMaxwell: Oh no, not again...
 
@@ -86,7 +86,7 @@ JaneHolifield: Fine... I guess if I must.
 @hide KatieMaxwell
 @char JaneHolifield.Default pose:DefaultMiddle
 
-Jane stops writing and puts down the notepad on the table and starts quickly walking towards you, with a annoyed look on her face.
+Jane stops writing and puts down the notepad on the table and starts quickly walking towards you, with an annoyed look on her face.
 She stops in front of you and does a small nod.
 JaneHolifield: Hello. Nice to meet you. Name is Jane. Good luck with the job.
 And with that, Jane raises her head and turns around and leaves as fast as she arrived, with you barely having time to respond.
@@ -122,7 +122,7 @@ So much for that thought.
 
 You and Katie continue on without any explosive surprises, until you can see a building with satellite disk and antennas on top of it.
 You enter inside the building and notice that it has lot of desks with computers on them. There are people sitting next to the tables, with headsets on their heads, talking to the mics and interacting with the computers.
-This must be some kind of command center, from which the whole operation is managed from.
+This must be some kind of command center, from which the whole operation is managed.
 
 @char KatieMaxwell.Default pose:DefaultMiddle
 

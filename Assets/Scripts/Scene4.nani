@@ -156,7 +156,7 @@ KatieMaxwell: *sigh* Now I feel stupid for getting scared over this.
 @char TarosJones.Default pose:DefaultLeft
 @char KatieMaxwell.Default pose:DefaultMiddle
 @char JohnMaxwell.Default pose:DefaultRight
-JohnMaxwell: Focus! Dangers not over yet!
+JohnMaxwell: Focus! Danger is not over yet!
 JohnMaxwell: We need to find a way out of here.
 John's voice snaps everyone back into reality.
 You've just avoided a close encounter with death, but you're still not out of the woods yet. You need to get out of this place and find out where you are.
@@ -170,7 +170,7 @@ JaneHolifield: I'm still trying to figure out how this works. But I think we nee
 JaneHolifield: There should be a transmitter or a generator somewhere around here, which is supplying power to this field and keeping us afloat.
 @hideChars
 
-Suddenly you get the same feel as in with the relic before, but much stronger.
+Suddenly you get the same feel as with the relic before, but much stronger.
 You suddenly feel like saying words, which do not make sense, or which you can't understand.
 You say, in a monotone voice.
 TheContractor: <i>Deactivate the levitation field.</i>
@@ -250,4 +250,3 @@ TAROS: Anyways why dont�ya two go look over the west side of the lab I�ll be
 -You and Katie move over to the west side. You see some kind of screens as well as more of the symbols around. It seems as though the symbols are some sort of buttons or controls.
 KATIE: Oh yea. I haven�t been able to ask ya about how you doing.
 KATIE: I know all of this must be quite overwhelming.
-
