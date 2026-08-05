@@ -2,8 +2,11 @@
 After having lifted the spirits of the team, everyone has been doing double to find the way finally to the upper land.
 The talk with Katie also helped your worries and the relative quietness in your head free of any relic intrusions has helped you clear your head.
 While deep in your thoughts a familiar feeling overtakes you, a relic.
+@wait 0.5
 But unlike before this time it feels like you are more connected to it, and it does not feel intruding, instead it feels more like soothing.
 The feeling seems to come from the cave wall next to you and you notice some sort of alien object on the wall that seems to glow as if reacting to your presence. 
+@despawn Blur
+@back Door tint:#222233
 Suddenly someone pushes you to the side.
 JaneHolifield: OH MY GOD!
 JaneHolifield: This is incredible! 
@@ -23,6 +26,7 @@ You open a page almost on instinct as if you have done this before. On the page 
 You are not sure why but you are certain that this series of numbers is exactly what you need.
 TheContractor: Let's see 02120403... 
 Suddenly you hear a huge rumbling as the wall in front of you slides open to reveal a room that almost looks like a monitoring room.
+@back SecretRoom
 You see multiple screens everywhere. Some have static on their screens while others are completely dark.
 There seems to be strange crescent moon shaped buttons.
 There seems to be also strange text in different letters. You guess this is human text. Some seem ancient while others more modern.
@@ -33,7 +37,9 @@ JaneHolifield: There must be something here...
 Jane approaches one of the screens when suddenly lights begin turning on as well as the screens.
 Suddenly the static and dark screens come to life showing weird places you do not know where they are. 
 What unifies them is that each place shows some sort of purple mineral? Rock? You are not quite sure.
+@back SecretRoom tint:#DDDDDD
 Then the entire room lights up making your eyes hurt from the sudden bright lights after being in the dark caverns for who knows how long.
+
 KatieMaxwell: This doesn't seem good.
 JohnMaxwell: What did ya do now Jane!
 JaneHolifield:  I didn't touch anything! I swear!

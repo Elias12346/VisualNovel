@@ -1,5 +1,6 @@
 *Start of 03_Act2Scene2*
 @back Road tint:#6666AA
+@spawn SunShafts
 During your journey, you've been looking outside of the truck, watching environments change before your eyes.
 You have traveled through scorching deserts, ruined cities of human civilization, and arid wastelands, previously lush grasslands now ruined by pollution caused by the previous inhabitants of this planet.
 At last, you spot a large mountain range, your target destination, far in the distance.
@@ -36,6 +37,8 @@ Taros leads the way to the cave entrance. You follow him inside.
 
 @back Black
 The cave is dark and empty at first, but as you walk further, you enter a room with strange lighting and symbols on the walls.
+@back Lab tint:#6666AA
+@despawn SunShafts
 TheContractor: Woah. Is this the lab? I've never seen anything like this before.
 @char JaneHolifield.Default pose:DefaultMiddle
 Jane suddenly appears out of nowhere.
@@ -85,6 +88,7 @@ TarosJones: Everyone, evacuate the lab now!
 @hideChars
 
 Just as you begin to run towards the entrance, a big rock falls in middle of the doorway, sealing the way out.
+@back Lab tint:#333344
 @char KatieMaxwell.Default pose:DefaultMiddle
 KatieMaxwell: Goddamnit! What do we do now?!
 @char KatieMaxwell.Default pose:DefaultLeft
@@ -106,6 +110,7 @@ JaneHolifield: Oh well, at least I'll die with the ancients.
 KatieMaxwell: Now is not the time for jokes!
 @hideChars
 
+@back Black
 Everyone starts falling and screaming, as you all fall into the darkness.
 You notice light below you, in the darkness, and you brace yourself for immediate demise.
 TheContractor: I'm going to die...!
@@ -171,6 +176,8 @@ JaneHolifield: There should be a transmitter or a generator somewhere around her
 @hideChars
 
 Suddenly you get the same feel as with the relic before, but much stronger.
+@spawn Blur
+@wait 0.8
 You suddenly feel like saying words, which do not make sense, or which you can't understand.
 You say, in a monotone voice.
 TheContractor: <i>Deactivate the levitation field.</i>
@@ -214,39 +221,3 @@ You don't know what awaits you in the east, but you feel like it has something t
 *End of 03_Act2Scene2*
 @goto Scene5
 @stop
-
-Comment Section:
-
-Original Script:
-
--	You look outside of the truck and see the environment change.
--	You have gone through deserts, ruined cities and arid wastelands.
-(wanted to put some world building here like saying what you can see outside and so on tell me if this is not natural and if it should be changed)
-EDIT: I added more to the beginning to make it more interesting and to give more information about the world.
-
--	Now as you look outside you see a large mountain range.
-JOHN: We are finally here, Katie take the tools, Jane gather your equipment, Contractor help carry the food and medicine, Taros you�re in charge until I make sure the perimeter is secured.
-(Havent actually thaught about what katies role in this company is so I just wrote tools. Been thinking that she could be a mechanic maybe or should taros be mechanic)
--	Everyone nods. The mood still seems quite tense but at least so far, no Earthflame problems so it seems like this might go well.
-EDIT: Minor edits.
-
-TAROS: Arright people let�s move out.
--You follow Taros to the cave.
--The cave for a minute looks empty and dark but suddenly you arrive to a room with weird lighting and symbols.
-TheContractor: Woah. Is this the lab. I have never seen something so beautiful.
--Suddenly Jane pops out from out of nowhere.
-JANE: Finally, someone understands beauty. 
-JANE: Think about how everything here was built right under human civilization.
-JANE: Think about how they lived, what they ate and what their culture was.
--Suddenly Jane completely changes from energetic to her usual calm self.
-JANE: *cough* anyway I must start my research.
--You look in shock at Jane just walking away in silence.
-KATIE: She has always been excited about this ancient civilization.
-KATIE: I remember vividly her showing me around her collection for hours when I was little.
--Katie smiles and looks away in memory.
-TAROS: Heh, our Janie has always been obsessed with these things.
--Taros lifts some kind of phone looking device.
-TAROS: Anyways why dont�ya two go look over the west side of the lab I�ll be right over here.
--You and Katie move over to the west side. You see some kind of screens as well as more of the symbols around. It seems as though the symbols are some sort of buttons or controls.
-KATIE: Oh yea. I haven�t been able to ask ya about how you doing.
-KATIE: I know all of this must be quite overwhelming.

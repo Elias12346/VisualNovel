@@ -230,6 +230,18 @@ MonoBehaviour:
     - name: Black
       pathPrefix: Backgrounds/MainBackground
       guid: 12080c214fe2d404fbd22e339a94a55f
+    - name: SecretRoom
+      pathPrefix: Backgrounds/MainBackground
+      guid: 9a6979bf90dd2f74d837b24c5c8851fd
+    - name: Lab
+      pathPrefix: Backgrounds/MainBackground
+      guid: 1696db28671ed6243a61243be741ae4b
+    - name: Building
+      pathPrefix: Backgrounds/MainBackground
+      guid: 25eafd57eab70db4aba3c78b4379f5e8
+    - name: Door
+      pathPrefix: Backgrounds/MainBackground
+      guid: b21d161dc0f63f44d9cbd253968b4c71
   - Id: Characters/926fe707-d8aa-46d5-b09d-4e7a97fd3dd9
     Resources:
     - name: CampFire

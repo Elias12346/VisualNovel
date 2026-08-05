@@ -62,6 +62,8 @@ TheContractor: What the hell was that?!
 KatieMaxwell: Oh no, not again...
 
 @hide KatieMaxwell
+@despawn SunShafts
+@back Lab tint:#888899
 
 You leave Katie behind and rush inside the building to see if something bad happened.
 
@@ -88,7 +90,7 @@ JaneHolifield: Fine... I guess if I must.
 
 Jane stops writing and puts down the notepad on the table and starts quickly walking towards you, with an annoyed look on her face.
 She stops in front of you and does a small nod.
-JaneHolifield: Hello. Nice to meet you. Name is Jane. Good luck with the job.
+JaneHolifield: Hello. Nice to meet you. Names Jane. Good luck with the job.
 And with that, Jane raises her head and turns around and leaves as fast as she arrived, with you barely having time to respond.
 TheContractor: Uhm... Yes, nice to meet you too. You can call me Contractor.
 Jane stops for a moment and looks over her shoulder.
@@ -115,6 +117,9 @@ Now that you think about it... Maybe it's better if you don't think about it too
 
 @show KatieMaxwell
 
+@back Desert tint:#CCCCCC
+@spawn SunShafts
+
 KatieMaxwell: Oh well, I guess it's time for you to meet father unless ANOTHER explosion stops us.
 So much for that thought.
 
@@ -126,11 +131,14 @@ This must be some kind of command center, from which the whole operation is mana
 
 @char KatieMaxwell.Default pose:DefaultMiddle
 
+@despawn SunShafts
 You and Katie walk through the command center, until you are standing outside of a room with a glass window.
+@back Door
 Katie knocks on the door and enters the room, with you following her.
 
 @hide KatieMaxwell
 @char JohnMaxwell.Default pose:DefaultMiddle
+@back Building
 
 You take a quick look around and you can see someone who you assume is Katie's father, ordering people around.
 JohnMaxwell: All right y'all. We finally found a new relic so be extremely careful with that.
