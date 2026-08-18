@@ -10,25 +10,26 @@ The truck slows down and stops. John steps out of the car and speaks up.
 @char JohnMaxwell.Default pose:DefaultMiddle
 JohnMaxwell: We are finally here.
 
-@char JohnMaxwell.Default pose:DefaultLeft
-@char KatieMaxwell.Default pose:DefaultMiddle
-@char JaneHolifield.Default pose:DefaultRight
+
+
 JohnMaxwell: Katie, take the tools. Jane, gather your equipment. Contractor, help carry the food and medicine.
+@hide JohnMaxwell
+@char KatieMaxwell.Default look:right pose:DefaultLeft
+@char JaneHolifield.Default look:left pose:DefaultRight
 Katie and Jane both nod in agreement and get to work.
 
 @hide KatieMaxwell
 @hide JaneHolifield
-@char TarosJones.Default pose:DefaultRight
+@char TarosJones.Default look:left pose:DefaultRight
+@char JohnMaxwell.Default look:right pose:DefaultLeft
 JohnMaxwell: Taros, you're in charge until I make sure the perimeter is secured.
 TarosJones: Got it boss.
 Taros responds with a quick nod, while John heads out to check the surroundings.
 @hideChars
 
-@char TarosJones.Default pose:DefaultMiddle
-@char JaneHolifield.Default pose:DefaultRight
-@char KatieMaxwell.Default pose:DefaultLeft
+
 You look at the people around you. The mood is still tense, but at least there are no Earthflame problems so far. It seems like this operation might go well.
-@hideChars
+
 
 @char TarosJones.Default pose:DefaultMiddle
 TarosJones: Arright people, let's get to work.
@@ -40,6 +41,7 @@ The cave is dark and empty at first, but as you walk further, you enter a room w
 @back Lab tint:#6666AA
 @despawn SunShafts
 TheContractor: Woah. Is this the lab? I've never seen anything like this before.
+
 @char JaneHolifield.Default pose:DefaultMiddle
 Jane suddenly appears out of nowhere.
 JaneHolifield: Finally, someone who understands beauty.
@@ -76,14 +78,17 @@ TheContractor: Mainly trying to figure out my past and what happened to me.
 Why where you so attached to the artifact? What was it about the relic that made you feel so connected to it?
 Why can't you remember anything about your past? What happened to you?
 Pushing those thoughts aside for a moment, you look around the lab, remembering the time in the camp when you felt strangely attached to the artifact.
+
 @char KatieMaxwell.Default pose:DefaultMiddle
 You are about to talk to Katie about it when John rushes into the room.
-@char KatieMaxwell.Default pose:DefaultLeft
-@char JohnMaxwell.Default pose:DefaultRight
+@char KatieMaxwell.Default look:right pose:DefaultLeft
+@char JohnMaxwell.Default look:left pose:DefaultRight
+@hide KatieMaxwell
+
 JohnMaxwell: It's a trap! Ulysses just noticed a weird signal coming from here!
 As John finishes speaking, the cave starts to tremble, and you hear explosions.
-@char JohnMaxwell.Default pose:DefaultMiddle
-@char TarosJones.Default pose:DefaultRight
+@char JohnMaxwell.Default look:right pose:DefaultLeft
+@char TarosJones.Default look:left pose:DefaultRight
 TarosJones: Everyone, evacuate the lab now!
 @hideChars
 
@@ -91,11 +96,11 @@ Just as you begin to run towards the entrance, a big rock falls in middle of the
 @back Lab tint:#333344
 @char KatieMaxwell.Default pose:DefaultMiddle
 KatieMaxwell: Goddamnit! What do we do now?!
-@char KatieMaxwell.Default pose:DefaultLeft
-@char JohnMaxwell.Default pose:DefaultRight
-JohnMaxwell: Calm down! We still have people outside.
+@hide KatieMxwell
 @char JohnMaxwell.Default pose:DefaultMiddle
-@char TarosJones.Default pose:DefaultRight
+JohnMaxwell: Calm down! We still have people outside.
+@hide JohnMaxwell
+@char TarosJones.Default pose:DefaultMiddle
 TarosJones: We have to keep moving. Let's go deeper into the lab.
 TarosJones: If we stay here, we die.
 @hideChars
@@ -105,8 +110,8 @@ And then, the ground gives way.
 You realize that the floor under you is crumbling and you all start falling down into the darkness below you.
 @char JaneHolifield.Default pose:DefaultMiddle
 JaneHolifield: Oh well, at least I'll die with the ancients.
-@char JaneHolifield.Default pose:DefaultLeft
-@char KatieMaxwell.Default pose:DefaultRight
+@char JaneHolifield.Default look:right pose:DefaultLeft
+@char KatieMaxwell.Default look:left pose:DefaultRight
 KatieMaxwell: Now is not the time for jokes!
 @hideChars
 
@@ -117,11 +122,7 @@ TheContractor: I'm going to die...!
 You close your eyes, accepting your fate.
 However the end doesn't come.
 Instead of hitting the ground, you feel a strange force lifting you up.
-@char JaneHolifield.Default pose:DefaultLeft
-@char KatieMaxwell.Default pose:DefaultMiddle
-@char TarosJones.Default pose:DefaultRight
 You open your eyes and see the rest of the team floating in the air, about twenty centimeters off the ground, just like you.
-@hideChars
 
 @char JohnMaxwell.Default pose:DefaultMiddle
 JohnMaxwell: What the hell... We were... but... that's impossible.
@@ -131,11 +132,12 @@ JohnMaxwell: Coming to a sudden stop like this... Inertia itself should have kil
 @char KatieMaxwell.Default pose:DefaultMiddle
 KatieMaxwell: Is... Is everyone alright?
 You notice Katie is still shaken from the fall, but manages to keep her composure.
-@char KatieMaxwell.Default pose:DefaultLeft
-@char JohnMaxwell.Default pose:DefaultRight
+@char KatieMaxwell.Default look:right pose:DefaultLeft
+@char JohnMaxwell.Default look:left pose:DefaultRight
 JohnMaxwell: I... I think so.
-@char JohnMaxwell.Default pose:DefaultMiddle
-@char TarosJones.Default pose:DefaultRight
+@hide KatieMaxwell
+@char JohnMaxwell.Default look:right pose:DefaultLeft
+@char TarosJones.Default look:left pose:DefaultRight
 TarosJones: I'm fine!
 You notice that everyone seems safe and sound, except for Jane who has not spoken yet.
 @hideChars
@@ -153,18 +155,19 @@ Jane seems lost in her own world, as she looks around in awe.
 You turn towards everyone else, and see that they are equally amazed and confused.
 @char TarosJones.Default pose:DefaultMiddle
 TarosJones: That's Janie alright.
-@char TarosJones.Default pose:DefaultLeft
-@char KatieMaxwell.Default pose:DefaultRight
+@char TarosJones.Default look:right pose:DefaultLeft
+@char KatieMaxwell.Default look:left pose:DefaultRight
 KatieMaxwell: She's always been like this when it comes to ancient technology.
 Katie raises her hand over her forehead.
 KatieMaxwell: *sigh* Now I feel stupid for getting scared over this.
-@char TarosJones.Default pose:DefaultLeft
-@char KatieMaxwell.Default pose:DefaultMiddle
-@char JohnMaxwell.Default pose:DefaultRight
+@char TarosJones.Default look:right pose:DefaultLeft
+@char JohnMaxwell.Default look:left pose:DefaultRight
 JohnMaxwell: Focus! Danger is not over yet!
 JohnMaxwell: We need to find a way out of here.
 John's voice snaps everyone back into reality.
 You've just avoided a close encounter with death, but you're still not out of the woods yet. You need to get out of this place and find out where you are.
+@hideChars
+@char KatieMaxwell.Default pose:DefaultMiddle
 KatieMaxwell: Right, let's try to figure out how to get out of this... Inertia dampening field?
 KatieMaxwell: Jane, any thoughts?
 @hideChars
@@ -182,11 +185,7 @@ You suddenly feel like saying words, which do not make sense, or which you can't
 You say, in a monotone voice.
 TheContractor: <i>Deactivate the levitation field.</i>
 
-@char JohnMaxwell.Default pose:DefaultLeft
-@char KatieMaxwell.Default pose:DefaultMiddle
-@char TarosJones.Default pose:DefaultRight
 Everyone looks at you in confusion.
-@hideChars
 Everyone suddenly falls onto the floor. The field that was holding all of you in place, has vanished.
 
 @char JohnMaxwell.Default pose:DefaultMiddle
@@ -204,16 +203,15 @@ You start walking towards the east.
 
 @char JohnMaxwell.Default pose:DefaultMiddle
 JohnMaxwell: What is going on? Why is he acting like this?
-@char JohnMaxwell.Default pose:DefaultLeft
-@char KatieMaxwell.Default pose:DefaultRight
+@char JohnMaxwell.Default look:right pose:DefaultLeft
+@char KatieMaxwell.Default look:left pose:DefaultRight
 KatieMaxwell: I don't know, but it's not like we have any other options. We either wait to be rescued or follow him.
-@char KatieMaxwell.Default pose:DefaultMiddle
-@char TarosJones.Default pose:DefaultRight
-TarosJones: I agree. Let's follow him. We'll hopefully figure out a way out of here, or at least find some answers.
 @hide JohnMaxwell
-@char KatieMaxwell.Default pose:DefaultLeft
-@char TarosJones.Default pose:DefaultMiddle
-@char JaneHolifield.Default pose:DefaultRight
+@char KatieMaxwell.Default look:right pose:DefaultLeft
+@char TarosJones.Default look:left pose:DefaultRight
+TarosJones: I agree. Let's follow him. We'll hopefully figure out a way out of here, or at least find some answers.
+@hideChars
+@char JaneHolifield.Default pose:DefaulMiddle
 JaneHolifield: He might be onto something. Let's go!
 @hideChars
 

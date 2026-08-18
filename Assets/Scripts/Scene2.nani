@@ -16,8 +16,8 @@ He quickly extends his hand towards you.
 For a moment you brace yourself, thinking he's going to hit or grab you, until he slaps you on the shoulder, his mouth forming into a big grin.
 TarosJones: Hah! looks like ya recruited another miner with your charms Katie.
 
-@char TarosJones.Default look:left pose:DefaultLeft
-@char KatieMaxwell.Default look:right pose:DefaultRight
+@char TarosJones.Default look:right pose:DefaultLeft
+@char KatieMaxwell.Default look:left pose:DefaultRight
 
 Katie seems a bit embarrassed by that comment
 KatieMaxwell: *sigh* Listen Taros. This is a complicated situation and that joke died long ago.
@@ -37,8 +37,8 @@ TarosJones: Nice to meet ya!
 You shake his hand and he returns it with a really strong handshake. It hurts a bit.
 This guy clearly works out. His grip is like a vice.
 
-@char TarosJones.Default pose:DefaultLeft
-@char KatieMaxwell.Default pose:DefaultRight
+@char TarosJones.Default look:right pose:DefaultLeft
+@char KatieMaxwell.Default look:left pose:DefaultRight
 
 KatieMaxwell: Well! We got to move on. See you later Taros!
 TarosJones: See ya later Katie! And you too "Contractor"!
@@ -75,8 +75,8 @@ JaneHolifield: Hmm. Most interesting... It seems my technology does not mesh wel
 TheContractor: What the hell happened here!? Are you okay?
 JaneHolifield: Oh! Hello there. Hold on, I must note down my findings first.
 
-@char JaneHolifield.Default pose:DefaultLeft
-@char KatieMaxwell.Default pose:DefaultRight
+@char JaneHolifield.Default look:right pose:DefaultLeft
+@char KatieMaxwell.Default look:left pose:DefaultRight
 
 Katie exhails deeply.
 KatieMaxwell: Aaah... Well, here is Jane Holifield, our science and relic expert. As you can probably see, she's quite the character as well.
@@ -143,8 +143,8 @@ Katie knocks on the door and enters the room, with you following her.
 You take a quick look around and you can see someone who you assume is Katie's father, ordering people around.
 JohnMaxwell: All right y'all. We finally found a new relic so be extremely careful with that.
 
-@char JohnMaxwell.Default pose:DefaultLeft
-@char KatieMaxwell.Default pose:DefaultRight
+@char JohnMaxwell.Default look:right pose:DefaultLeft
+@char KatieMaxwell.Default look:left pose:DefaultRight
 
 KatieMaxwell: Hey dad, I got some business stuff to talk about.
 JohnMaxwell: Ah business... My favorite subject. Hah!

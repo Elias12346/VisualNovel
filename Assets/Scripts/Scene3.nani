@@ -10,8 +10,8 @@ They seem to be discussing something important. You walk over to them and listen
 JohnMaxwell: Allright team! We have some info on a big find. An intact ancient lab of some sorts at these coordinates.
 John is pointing at a specific spot on the map, and the rest of the team is listening intently.
 
-@char JohnMaxwell.Default pose:DefaultLeft
-@char JaneHolifield.Default pose:DefaultRight
+@char JohnMaxwell.Default look:right pose:DefaultLeft
+@char JaneHolifield.Default look:left pose:DefaultRight
 You notice Jane is actually smiling, with rest of the team looking quite excited.
 
 @hide JaneHolifield
@@ -28,24 +28,24 @@ JohnMaxwell: I guess you really have lost your memory, huh? They are one of the 
 JohnMaxwell: They have vested interest in the mining operations on Earth.
 JohnMaxwell: And uuh... We might have some bad blood between us. We "might" have stolen some plans from them a decade ago.
 
-@char JohnMaxwell.Default pose:DefaultLeft
-@char TarosJones.Default pose:DefaultRight
+@char JohnMaxwell.Default look:right pose:DefaultLeft
+@char TarosJones.Default look:left pose:DefaultRight
 TarosJones: Hah! I still remember that gig. What an explosive way to start my career!
 Taros exclaims with a smile on his face.
 
-@char JohnMaxwell.Default pose:DefaultLeft
-@char TarosJones.Default pose:DefaultMiddle
-@char KatieMaxwell.Default pose:DefaultRight
+@hide TarosJones
+@hide JohnMaxwell
+@char KatieMaxwell.Default pose:DefaultMiddle
 KatieMaxwell: You both are lucky to have survived that operation.
 Katie is holding her hand against her forehead, as if trying to suppress a headache.
 
-@hide TarosJones
+
 @hide KatieMaxwell
 @char JohnMaxwell.Default pose:DefaultMiddle
 TheContractor: So, basically a rival group with a disdain for us. Got it.
 
-@char JohnMaxwell.Default pose:DefaultLeft
-@char KatieMaxwell.Default pose:DefaultRight
+@char JohnMaxwell.Default look:right pose:DefaultLeft
+@char KatieMaxwell.Default look:left pose:DefaultRight
 You notice Katie is the first to speak up, she seems to be deep in thought, looking at the map with fingers on her chin.
 KatieMaxwell: In Earthflame territory... Could this be a trap?
 JohnMaxwell: Could be, you never know with these types.
@@ -76,8 +76,8 @@ You nod in agreement and start following John.
 You follow John to the garage, where you see a big wheeled vehicle that looks like a truck. It's old and weathered, but still strong and stable.
 You notice Ulysses and his team are already there, they are preparing for departure as well. They are loading their gear into a separate vehicle from yours.
 
-@char JohnMaxwell.Default pose:DefaultLeft
-@char JaneHolifield.Default pose:DefaultRight
+@char JohnMaxwell.Default look:right pose:DefaultLeft
+@char JaneHolifield.Default look:left pose:DefaultRight
 Just as you wonder what to do, John looks at you and gestures towards both you and Jane to climb aboard the truck.
 
 @hide JaneHolifield
@@ -87,8 +87,8 @@ JohnMaxwell: We're going with light gear, so make sure you only take what you ne
 John turns the key and the truck roars to life. You feel the vibrations under your feet along with the sound of humming engine.
 
 @hide JohnMaxwell
-@char KatieMaxwell.Default pose:DefaultLeft
-@char TarosJones.Default pose:DefaultRight
+@char KatieMaxwell.Default look:right pose:DefaultLeft
+@char TarosJones.Default look:left pose:DefaultRight
 You notice Katie and Taros outside the truck's windows, loading the gear into the truck. You note the precision and silent efficiency with which they work.
 Even Taros seems to be focused on the task at hand, without his usual banter.
 
