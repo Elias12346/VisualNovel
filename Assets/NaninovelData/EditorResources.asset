@@ -247,3 +247,8 @@ MonoBehaviour:
     - name: CampFire
       pathPrefix: Characters/CampFire
       guid: 5ac5d23b224c957469c26e158f028430
+  - Id: Audio
+    Resources:
+    - name: BackgroundAmbient
+      pathPrefix: Audio
+      guid: 5eea2284b9dde3c4e93ccd8920039e21
