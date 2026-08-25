@@ -377,6 +377,10 @@
         &lt;Path&gt;CampFire&lt;/Path&gt;
         &lt;Type&gt;Characters/CampFire&lt;/Type&gt;
       &lt;/Resource&gt;
+      &lt;Resource&gt;
+        &lt;Path&gt;BackgroundAmbient&lt;/Path&gt;
+        &lt;Type&gt;Audio&lt;/Type&gt;
+      &lt;/Resource&gt;
     &lt;/Resources&gt;
     &lt;Constants /&gt;
     &lt;Variables /&gt;

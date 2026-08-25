@@ -252,3 +252,36 @@ MonoBehaviour:
     - name: BackgroundAmbient
       pathPrefix: Audio
       guid: 5eea2284b9dde3c4e93ccd8920039e21
+    - name: BadRelic
+      pathPrefix: Audio
+      guid: 6585327bd6fd1ae44963e26c4b51c2df
+    - name: CalmAmbiance
+      pathPrefix: Audio
+      guid: 5f6fafc61c303f249b4aa2dc2102543e
+    - name: CampFireMusic
+      pathPrefix: Audio
+      guid: c13acf9a56333704283ace0d273ce5b4
+    - name: CampFireSFX
+      pathPrefix: Audio
+      guid: c93741f880596574bbef068dd79e389d
+    - name: Car
+      pathPrefix: Audio
+      guid: 85ec40c3674ce4c4daea9cf1fd1407bf
+    - name: CarStart
+      pathPrefix: Audio
+      guid: f6877a3a138c6be449332ee4fe1e7fba
+    - name: Cave
+      pathPrefix: Audio
+      guid: 6d2e2db0b97a8c84e9b7aba22496d5fe
+    - name: Earthquake
+      pathPrefix: Audio
+      guid: 5ae4d298ed547ba4c88587effb75d7e1
+    - name: Explosion1
+      pathPrefix: Audio
+      guid: 1fd31868d68903d4f9e2c4a3b7ef98f3
+    - name: SecretLab
+      pathPrefix: Audio
+      guid: ef620616f852da04ca98acaacb071af9
+    - name: CalmRelic
+      pathPrefix: Audio
+      guid: aebdbe1337331dd46a414b18107556df

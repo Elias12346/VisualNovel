@@ -1,6 +1,11 @@
 *Start of Act2Scene3*
+@stopbgm BadRelic
+@bgm Cave
 You and the rest of the team have been walking the maze of tunnels and caves for who knows how long now. 
 After walking aimlessly you and the team decide to set up camp.
+@stopbgm Cave
+@bgm CampFireMusic
+@bgm CampFireSFX
 
 You are watching the campfire while rest of the team is working on their own around you.
 Since dropping down here you have been half awake. 

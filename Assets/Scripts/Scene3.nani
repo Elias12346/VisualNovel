@@ -1,5 +1,7 @@
 *Start of 02_Act2Scene1*
 
+@stopbgm BadRelic
+@bgm BackgroundAmbient
 @back Desert tint:#888899
 The meeting place is a fireplace with tables and chairs surrounding it and then a bit further away tents are surrounding the fireplace as well.
 
@@ -99,6 +101,7 @@ You watch both of them work, and you can't help but feel a sense of unease creep
 The silence is broken by both Katie and Taros opening the doors and climbing into the truck, taking their seats without a word.
 @char JohnMaxwell.Default pose:DefaultMiddle
 JohnMaxwell: Alright, ya all ready? Let's move out!
+@sfx CarStart
 John steps on the accelerator, and the truck starts moving. You leave the camp behind, heading towards the unknown.
 @hide JohnMaxwell
 

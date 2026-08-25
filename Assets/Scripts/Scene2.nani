@@ -55,6 +55,7 @@ You stop for a moment and notice that Katie seems deep in thought.
 KatieMaxwell: Alright... I think you have seen enough of the dig site, so I think it's time to mee-
 
 @spawn ShakeCharacter params:KatieMaxwell
+@sfx Explosion1
 -BOOM-
 
 Suddenly you hear a loud explosion from a nearby building.
@@ -75,8 +76,8 @@ JaneHolifield: Hmm. Most interesting... It seems my technology does not mesh wel
 TheContractor: What the hell happened here!? Are you okay?
 JaneHolifield: Oh! Hello there. Hold on, I must note down my findings first.
 
-@char JaneHolifield.Default look:right pose:DefaultLeft
-@char KatieMaxwell.Default look:left pose:DefaultRight
+@char JaneHolifield.Default look:left pose:DefaultLeft
+@char KatieMaxwell.Default look:right pose:DefaultRight
 
 Katie exhails deeply.
 KatieMaxwell: Aaah... Well, here is Jane Holifield, our science and relic expert. As you can probably see, she's quite the character as well.
@@ -158,7 +159,8 @@ JohnMaxwell: And sure I can ship ya to where ya want, but only after we get our 
 
 @hide JohnMaxwell time:1
 @hide KatieMaxwell time:1
-
+@stopbgm BackgroundAmbient
+@bgm BadRelic
 You see the relic John was talking about.
 @spawn Blur
 For a moment you feel as if you were hypnotized by it.

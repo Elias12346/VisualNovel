@@ -1,11 +1,13 @@
 *Start of 03_Act2Scene2*
 @back Road tint:#6666AA
 @spawn SunShafts
+@bgm Car
 During your journey, you've been looking outside of the truck, watching environments change before your eyes.
 You have traveled through scorching deserts, ruined cities of human civilization, and arid wastelands, previously lush grasslands now ruined by pollution caused by the previous inhabitants of this planet.
 At last, you spot a large mountain range, your target destination, far in the distance.
 John drives the truck closer to the expected coordinates of the ancient lab, which is supposed to be inside the mountain somewhere.
 The truck slows down and stops. John steps out of the car and speaks up.
+@stopbgm Car
 
 @char JohnMaxwell.Default pose:DefaultMiddle
 JohnMaxwell: We are finally here.
@@ -34,6 +36,8 @@ You look at the people around you. The mood is still tense, but at least there a
 @char TarosJones.Default pose:DefaultMiddle
 TarosJones: Arright people, let's get to work.
 Taros leads the way to the cave entrance. You follow him inside.
+@stopbgm BackgroundAmbient
+@bgm Cave
 @hideChars
 
 @back Black
@@ -87,12 +91,14 @@ You are about to talk to Katie about it when John rushes into the room.
 
 JohnMaxwell: It's a trap! Ulysses just noticed a weird signal coming from here!
 As John finishes speaking, the cave starts to tremble, and you hear explosions.
+@sfx Earthquake
 @char JohnMaxwell.Default look:right pose:DefaultLeft
 @char TarosJones.Default look:left pose:DefaultRight
 TarosJones: Everyone, evacuate the lab now!
 @hideChars
 
 Just as you begin to run towards the entrance, a big rock falls in middle of the doorway, sealing the way out.
+@sfx Earthquake
 @back Lab tint:#333344
 @char KatieMaxwell.Default pose:DefaultMiddle
 KatieMaxwell: Goddamnit! What do we do now?!
@@ -107,6 +113,7 @@ TarosJones: If we stay here, we die.
 
 Everyone starts running deeper into the lab, until even the ground itself starts to tremble.
 And then, the ground gives way.
+@sfx Earthquake
 You realize that the floor under you is crumbling and you all start falling down into the darkness below you.
 @char JaneHolifield.Default pose:DefaultMiddle
 JaneHolifield: Oh well, at least I'll die with the ancients.
@@ -121,13 +128,18 @@ You notice light below you, in the darkness, and you brace yourself for immediat
 TheContractor: I'm going to die...!
 You close your eyes, accepting your fate.
 However the end doesn't come.
+@stopbgm Cave
+@bgm CalmAmbiance
 Instead of hitting the ground, you feel a strange force lifting you up.
+@wait 1.0
 You open your eyes and see the rest of the team floating in the air, about twenty centimeters off the ground, just like you.
 
 @char JohnMaxwell.Default pose:DefaultMiddle
 JohnMaxwell: What the hell... We were... but... that's impossible.
 JohnMaxwell: Coming to a sudden stop like this... Inertia itself should have killed us. What the hell is going here?
 @hide JohnMaxwell
+@stopbgm CalmAmbiance
+@bgm Cave
 
 @char KatieMaxwell.Default pose:DefaultMiddle
 KatieMaxwell: Is... Is everyone alright?
@@ -178,6 +190,8 @@ JaneHolifield: I'm still trying to figure out how this works. But I think we nee
 JaneHolifield: There should be a transmitter or a generator somewhere around here, which is supplying power to this field and keeping us afloat.
 @hideChars
 
+@stopbgm Cave
+@bgm BadRelic
 Suddenly you get the same feel as with the relic before, but much stronger.
 @spawn Blur
 @wait 0.8
