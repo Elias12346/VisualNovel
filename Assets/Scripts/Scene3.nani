@@ -30,8 +30,8 @@ JohnMaxwell: I guess you really have lost your memory, huh? They are one of the 
 JohnMaxwell: They have vested interest in the mining operations on Earth.
 JohnMaxwell: And uuh... We might have some bad blood between us. We "might" have stolen some plans from them a decade ago.
 
-@char JohnMaxwell.Default look:right pose:DefaultLeft
-@char TarosJones.Default look:left pose:DefaultRight
+@char JohnMaxwell.Default look:left pose:DefaultLeft
+@char TarosJones.Default look:right pose:DefaultRight
 TarosJones: Hah! I still remember that gig. What an explosive way to start my career!
 Taros exclaims with a smile on his face.
 
@@ -46,8 +46,8 @@ Katie is holding her hand against her forehead, as if trying to suppress a heada
 @char JohnMaxwell.Default pose:DefaultMiddle
 TheContractor: So, basically a rival group with a disdain for us. Got it.
 
-@char JohnMaxwell.Default look:right pose:DefaultLeft
-@char KatieMaxwell.Default look:left pose:DefaultRight
+@char JohnMaxwell.Default look:left pose:DefaultLeft
+@char KatieMaxwell.Default look:right pose:DefaultRight
 You notice Katie is the first to speak up, she seems to be deep in thought, looking at the map with fingers on her chin.
 KatieMaxwell: In Earthflame territory... Could this be a trap?
 JohnMaxwell: Could be, you never know with these types.
@@ -89,8 +89,8 @@ JohnMaxwell: We're going with light gear, so make sure you only take what you ne
 John turns the key and the truck roars to life. You feel the vibrations under your feet along with the sound of humming engine.
 
 @hide JohnMaxwell
-@char KatieMaxwell.Default look:right pose:DefaultLeft
-@char TarosJones.Default look:left pose:DefaultRight
+@char KatieMaxwell.Default look:left pose:DefaultLeft
+@char TarosJones.Default look:right pose:DefaultRight
 You notice Katie and Taros outside the truck's windows, loading the gear into the truck. You note the precision and silent efficiency with which they work.
 Even Taros seems to be focused on the task at hand, without his usual banter.
 
@@ -104,7 +104,7 @@ JohnMaxwell: Alright, ya all ready? Let's move out!
 @sfx CarStart
 John steps on the accelerator, and the truck starts moving. You leave the camp behind, heading towards the unknown.
 @hide JohnMaxwell
-
+@stopsfx CarStart
 *End of 02_Act2Scene1*
 @goto Scene4
 @stop

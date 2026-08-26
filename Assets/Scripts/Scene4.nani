@@ -1,7 +1,7 @@
 *Start of 03_Act2Scene2*
 @back Road tint:#6666AA
 @spawn SunShafts
-@bgm Car
+@bgm Car volume:10
 During your journey, you've been looking outside of the truck, watching environments change before your eyes.
 You have traveled through scorching deserts, ruined cities of human civilization, and arid wastelands, previously lush grasslands now ruined by pollution caused by the previous inhabitants of this planet.
 At last, you spot a large mountain range, your target destination, far in the distance.
@@ -22,8 +22,8 @@ Katie and Jane both nod in agreement and get to work.
 
 @hide KatieMaxwell
 @hide JaneHolifield
-@char TarosJones.Default look:left pose:DefaultRight
-@char JohnMaxwell.Default look:right pose:DefaultLeft
+@char TarosJones.Default look:right pose:DefaultRight
+@char JohnMaxwell.Default look:left pose:DefaultLeft
 JohnMaxwell: Taros, you're in charge until I make sure the perimeter is secured.
 TarosJones: Got it boss.
 Taros responds with a quick nod, while John heads out to check the surroundings.
@@ -62,8 +62,8 @@ Jane walks away silently, leaving you wondering about her sudden change in behav
 KatieMaxwell: She has always been excited about this ancient civilization.
 KatieMaxwell: I remember her showing me her collection for hours when I was little.
 Katie smiles and shakes her head, lost in memories.
-@char KatieMaxwell.Default pose:DefaultLeft
-@char TarosJones.Default pose:DefaultRight
+@char KatieMaxwell.Default look:left pose:DefaultLeft
+@char TarosJones.Default look:right pose:DefaultRight
 TarosJones: Heh, our Janie has always been obsessed with this crap.
 Taros picks some kind of phone-looking device.
 TarosJones: Anyways, why don't you two go look over the west side of the lab? I'll be right over here.
@@ -85,40 +85,39 @@ Pushing those thoughts aside for a moment, you look around the lab, remembering 
 
 @char KatieMaxwell.Default pose:DefaultMiddle
 You are about to talk to Katie about it when John rushes into the room.
-@char KatieMaxwell.Default look:right pose:DefaultLeft
-@char JohnMaxwell.Default look:left pose:DefaultRight
+@char KatieMaxwell.Default look:left pose:DefaultLeft
+@char JohnMaxwell.Default look:right pose:DefaultRight
 @hide KatieMaxwell
 
 JohnMaxwell: It's a trap! Ulysses just noticed a weird signal coming from here!
 As John finishes speaking, the cave starts to tremble, and you hear explosions.
 @sfx Earthquake
-@char JohnMaxwell.Default look:right pose:DefaultLeft
-@char TarosJones.Default look:left pose:DefaultRight
+@char JohnMaxwell.Default look:left pose:DefaultLeft
+@char TarosJones.Default look:right pose:DefaultRight
 TarosJones: Everyone, evacuate the lab now!
 @hideChars
 
 Just as you begin to run towards the entrance, a big rock falls in middle of the doorway, sealing the way out.
-@sfx Earthquake
 @back Lab tint:#333344
 @char KatieMaxwell.Default pose:DefaultMiddle
 KatieMaxwell: Goddamnit! What do we do now?!
-@hide KatieMxwell
+@hide KatieMaxwell
 @char JohnMaxwell.Default pose:DefaultMiddle
 JohnMaxwell: Calm down! We still have people outside.
 @hide JohnMaxwell
 @char TarosJones.Default pose:DefaultMiddle
 TarosJones: We have to keep moving. Let's go deeper into the lab.
 TarosJones: If we stay here, we die.
+@stopsfx Earthquake
 @hideChars
 
 Everyone starts running deeper into the lab, until even the ground itself starts to tremble.
 And then, the ground gives way.
-@sfx Earthquake
 You realize that the floor under you is crumbling and you all start falling down into the darkness below you.
 @char JaneHolifield.Default pose:DefaultMiddle
 JaneHolifield: Oh well, at least I'll die with the ancients.
-@char JaneHolifield.Default look:right pose:DefaultLeft
-@char KatieMaxwell.Default look:left pose:DefaultRight
+@char JaneHolifield.Default look:left pose:DefaultLeft
+@char KatieMaxwell.Default look:right pose:DefaultRight
 KatieMaxwell: Now is not the time for jokes!
 @hideChars
 
@@ -148,8 +147,8 @@ You notice Katie is still shaken from the fall, but manages to keep her composur
 @char JohnMaxwell.Default look:left pose:DefaultRight
 JohnMaxwell: I... I think so.
 @hide KatieMaxwell
-@char JohnMaxwell.Default look:right pose:DefaultLeft
-@char TarosJones.Default look:left pose:DefaultRight
+@char JohnMaxwell.Default look:left pose:DefaultLeft
+@char TarosJones.Default look:right pose:DefaultRight
 TarosJones: I'm fine!
 You notice that everyone seems safe and sound, except for Jane who has not spoken yet.
 @hideChars
@@ -172,6 +171,7 @@ TarosJones: That's Janie alright.
 KatieMaxwell: She's always been like this when it comes to ancient technology.
 Katie raises her hand over her forehead.
 KatieMaxwell: *sigh* Now I feel stupid for getting scared over this.
+@hide KatieMaxwell
 @char TarosJones.Default look:right pose:DefaultLeft
 @char JohnMaxwell.Default look:left pose:DefaultRight
 JohnMaxwell: Focus! Danger is not over yet!
@@ -217,12 +217,12 @@ You start walking towards the east.
 
 @char JohnMaxwell.Default pose:DefaultMiddle
 JohnMaxwell: What is going on? Why is he acting like this?
-@char JohnMaxwell.Default look:right pose:DefaultLeft
-@char KatieMaxwell.Default look:left pose:DefaultRight
+@char JohnMaxwell.Default look:left pose:DefaultLeft
+@char KatieMaxwell.Default look:right pose:DefaultRight
 KatieMaxwell: I don't know, but it's not like we have any other options. We either wait to be rescued or follow him.
 @hide JohnMaxwell
-@char KatieMaxwell.Default look:right pose:DefaultLeft
-@char TarosJones.Default look:left pose:DefaultRight
+@char KatieMaxwell.Default look:left pose:DefaultLeft
+@char TarosJones.Default look:right pose:DefaultRight
 TarosJones: I agree. Let's follow him. We'll hopefully figure out a way out of here, or at least find some answers.
 @hideChars
 @char JaneHolifield.Default pose:DefaulMiddle

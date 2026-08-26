@@ -2,11 +2,11 @@
 *Start of final scene*
 
 Voice: OBSERVATION POST ALPHA-099 REPORTING TO DUTY. LAST ACTIVITY APRIL 19 2027.
-@char JohnMaxwell.Default look:right pose:DefaultLeft
+@char JohnMaxwell.Default look:left pose:DefaultLeft
 JohnMaxwell: 2027? That was over a hundred years ago!
 Voice: Warning 4 unauthorized people detected, calling security ERROR. Security unavailable. Recommend hiding.
 It is as if the voice is speaking to you.
-@char KatieMaxwell.Default look:left pose:DefaultRight
+@char KatieMaxwell.Default look:right pose:DefaultRight
 KatieMaxwell: Wait. What does it mean by 4? There is 5 of us here.
 You wonder this as well. 
 @hideChars
