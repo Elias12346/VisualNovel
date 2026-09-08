@@ -91,7 +91,7 @@ JaneHolifield: Fine... I guess if I must.
 
 Jane stops writing and puts down the notepad on the table and starts quickly walking towards you, with an annoyed look on her face.
 She stops in front of you and does a small nod.
-JaneHolifield: Hello. Nice to meet you. Names Jane. Good luck with the job.
+JaneHolifield: Hello. Nice to meet you. Name's Jane. Good luck with the job.
 And with that, Jane raises her head and turns around and leaves as fast as she arrived, with you barely having time to respond.
 TheContractor: Uhm... Yes, nice to meet you too. You can call me Contractor.
 Jane stops for a moment and looks over her shoulder.
@@ -152,7 +152,7 @@ JohnMaxwell: Ah business... My favorite subject. Hah!
 Katie shakes her head at her father's joke.
 JohnMaxwell: I'm guessin' that business got something to do with him here.
 You decide to try to make a good first impression, as he might be your ticket to Nicera.
-TheContractor: Hello, nice to meet you sir. I am called Contractor, and long story short. 
+TheContractor: Hello, nice to meet you sir. I am called Contractor, and long story short... 
 TheContractor: I lost my memories and your daughter has helped me and promised me a way away from this planet if I help you.
 JohnMaxwell: Don't worry son, and no need to be so prim and proper with me. I ain't no fancy pants and just call me John.
 JohnMaxwell: And sure I can ship ya to where ya want, but only after we get our job done here, and I know my daughter knows talent when she sees one.
@@ -161,7 +161,7 @@ JohnMaxwell: And sure I can ship ya to where ya want, but only after we get our 
 @hide KatieMaxwell time:1
 @stopbgm BackgroundAmbient
 @bgm BadRelic
-You see the relic John was talking about.
+You suddenly see the relic that John was talking about.
 @spawn Blur
 For a moment you feel as if you were hypnotized by it.
 Your eyes are drawn upon it and you find it mesmerising to look at...

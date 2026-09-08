@@ -42,7 +42,7 @@ You open a page almost on instinct as if you have done this before. On the page 
 You are not sure why but you are certain that this series of numbers is exactly what you need.
 TheContractor: Let's see 02120403... 
 Suddenly you hear a huge rumbling as the wall in front of you slides open to reveal a room that almost looks like a monitoring room.
-@stopbgm BackgroundAmbiance
+@stopbgm BackgroundAmbient
 @bgm SecretLab
 
 @back SecretRoom

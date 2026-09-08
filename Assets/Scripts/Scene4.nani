@@ -53,7 +53,7 @@ JaneHolifield: Think about how everything here was built right under human civil
 JaneHolifield: Think about how they lived, what they ate, and what their culture was.
 Up until now, Jane has been silent, it is slightly surprising to hear Jane being so energetic and vocal about her thoughts.
 Jane's energy suddenly shifts to a calm demeanor.
-While holding her hand in front of her mouth. She says to you.
+While holding her hand in front of her mouth she says to you.
 JaneHolifield: *cough* Anyway, I must start my research.
 Jane walks away silently, leaving you wondering about her sudden change in behavior.
 @hideChars
@@ -196,7 +196,7 @@ Suddenly you get the same feel as with the relic before, but much stronger.
 @spawn Blur
 @wait 0.8
 You suddenly feel like saying words, which do not make sense, or which you can't understand.
-You say, in a monotone voice.
+You say, in a monotone voice:
 TheContractor: <i>Deactivate the levitation field.</i>
 
 Everyone looks at you in confusion.

@@ -39,7 +39,7 @@ Then suddenly you hear a familiar loud voice from your right.
 @char KatieMaxwell.Default look:left pose:DefaultLeft
 @char TarosJones.Default look:right pose:DefaultRight
 
-TarosJones:Ya'all looking too full gloom and doom. But don't worry I got something to change that.
+TarosJones: Ya'all looking too full gloom and doom. But don't worry I got something to change that.
 Smirking, Taros pulls a small bottle of some blue liquid from his pockets.
 TheContractor: Whats that?
 
@@ -51,7 +51,7 @@ Suddenly, John appears, sporting a mock angry expression.
 
 @char JohnMaxwell.Default look:left pose:DefaultLeft
 
-JohnMaxwell:Well, well, well. Drinking on the job Taros? As the commanding officer I must make sure you don't drink too much so I will confiscate part of it for myself.
+JohnMaxwell: Well, well, well. Drinking on the job Taros? As the commanding officer I must make sure you don't drink too much so I will confiscate part of it for myself.
 TarosJones: Oh but of course, I would never want to take this away from such a distinguished and proper officer. 
 The two friends laugh at each other.
 TarosJones: Let's get cooking.
