@@ -49,17 +49,17 @@ MonoBehaviour:
       MinimumDistance: 50
       ActivateOnMove: 0
   - Name: Pause
-    AlwaysProcess: 0
-    Keys: 0800000051010000
+    AlwaysProcess: 1
+    Keys: 08000000510100001b000000
     Axes: []
     Swipes: []
   - Name: Skip
-    AlwaysProcess: 0
+    AlwaysProcess: 1
     Keys: 32010000310100004b010000
     Axes: []
     Swipes: []
   - Name: ToggleSkip
-    AlwaysProcess: 0
+    AlwaysProcess: 1
     Keys: 0900000053010000
     Axes: []
     Swipes: []
