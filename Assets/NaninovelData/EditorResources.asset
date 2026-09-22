@@ -192,6 +192,9 @@ MonoBehaviour:
     - name: Scene7
       pathPrefix: Scripts
       guid: bd8ae8f87f473d84d957acc776baf828
+    - name: EndScene
+      pathPrefix: Scripts
+      guid: fe6f9a8fed426e44eac0eaf7b256af43
   - Id: CharacterAvatars
     Resources: []
   - Id: Characters/6a8678a8-cd89-4fd2-98bd-080f7dfbebb8
