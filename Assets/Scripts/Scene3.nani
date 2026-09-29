@@ -1,4 +1,4 @@
-*Start of 02_Act2Scene1*
+
 
 @stopbgm BadRelic
 @bgm BackgroundAmbient
@@ -105,6 +105,6 @@ JohnMaxwell: Alright, ya all ready? Let's move out!
 John steps on the accelerator, and the truck starts moving. You leave the camp behind, heading towards the unknown.
 @hide JohnMaxwell
 @stopsfx CarStart
-*End of 02_Act2Scene1*
+
 @goto Scene4
 @stop

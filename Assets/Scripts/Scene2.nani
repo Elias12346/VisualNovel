@@ -1,6 +1,6 @@
 
 
-*Start of Scene2*
+
 While following Katie in the camp, you notice many of the miners are giving you looks, as if you were some kind of exotic animal.
 
 @char KatieMaxwell.Default pose:DefaultMiddle
@@ -183,6 +183,6 @@ You follow the relic with your eyes, as it's being carried away, wondering why t
 You follow John and Katie to the meeting place, but you still can't shake the weird feeling the relic gave you.
 Could this relic be the key to unlocking your memories?
 
-*End of 01_IntroductionScene*
+
 @goto Scene3
 @stop

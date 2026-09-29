@@ -1,4 +1,4 @@
-*Start of 03_Act2Scene2*
+
 @back Road tint:#6666AA
 @spawn SunShafts
 @bgm Car volume:10
@@ -230,6 +230,6 @@ JaneHolifield: He might be onto something. Let's go!
 @hideChars
 
 You don't know what awaits you in the east, but you feel like it has something to do with your lost memory.
-*End of 03_Act2Scene2*
+
 @goto Scene5
 @stop
